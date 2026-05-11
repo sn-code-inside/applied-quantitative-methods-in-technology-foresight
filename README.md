@@ -56,40 +56,42 @@ To get started with a specific chapter, navigate to its folder and consult the `
 
 | Chapter | Title | Authors |
 |---------|-------|---------|
-| 1 | Introduction to Quantitative Technology Foresight | Serhat Burmaoglu |
+| 1 | Introduction to Quantitative Technology Foresight | Serhat Burmaoglu, Ozcan Saritas |
 | 2 | Fundamentals of Data in Technology Foresight | Kemal Yayla |
-| 3 | Statistical Foundations for Technology Analysis | Femin Yalcin |
+| 3 | Statistical Foundations for Technology Analysis | Femin Yalcin, Sila Ovgu Korkut |
 
 ### Part II: Traditional Quantitative Methods
 
 | Chapter | Title | Authors |
 |---------|-------|---------|
-| 4 | Bibliometric Analysis in Technology Foresight | Haydar Yalcin |
-| 5 | Patent Analytics and Technology Mining | Haydar Yalcin |
-| 6 | Multivariate Analysis for Technology Assessment | Burcu Aracioglu |
+| 4 | Bibliometric Analysis in Technology Foresight | Efecan Çağdaş Kaya · Dizem Kardeş · Serkan Yalçın · Haydar Yalçın · Burcu Aracıoğlu |
+| 5 | Patent Analytics and Technology Mining | Anıl Işık · Özlem Ekmekcı · Bilal Özer · Ümit Dağhan · Dilek Demirhan · Haydar Yalçın |
+| 6 | Multivariate Analysis for Technology Assessment | Burcu Aracıoğlu · Ural Gökay Çiçekli · Ege Cihangir |
 
 ### Part III: Advanced AI Approaches
 
 | Chapter | Title | Authors |
 |---------|-------|---------|
-| 7 | Machine Learning in Technology Forecasting | — |
-| 8 | Deep Learning Applications in Foresight | Sila Ovgu Korkut, Halime Özge Kabak |
+| 7 | Machine Learning in Technology Forecasting | Mustafa Yurtsever, Karahan Kara |
+| 8 | Deep Learning Applications in Foresight | Halime Özge Kabak · Sila Ovgu Korkut · Femin Yalcin |
 | 9 | Text Mining and Natural Language Processing | Aytug Onan |
+| 10 | Hybrid Methods and Foresight Frameworks | Mateus Panizzon · Raquel Janissek-Muniz · Carlos Javier Brito-Cabrera · Natalia Marroni Borges |
 
 ### Part IV: Integration and Method Combination
 
 | Chapter | Title | Authors |
 |---------|-------|---------|
-| 10 | Hybrid Methods and Foresight Frameworks | Carlos Brito |
-| 11 | Visualization and Communication | Volkan Gungor |
-| 12 | Tools and Software Implementation | Arif Soyler |
+
+| 11 | Visualization and Communication | Mustafa Volkan Güngör · Dilek Özdemir Güngör |
+| 12 | Tools and Software Implementation | Serhat Burmaoglu · Arif Soyler · Esra Dundar Aravacik |
 
 ### Part V: Applications and Case Studies
 
 | Chapter | Title | Authors |
 |---------|-------|---------|
-| 13 | Emerging Technology Detection | Bruno Abreu Santos, Eduardo Krempser |
-| 14 | Strategic Technology Planning | Daniel Lacerda, Monique Menegaci |
+| 13 | Emerging Technology Detection | Bruno Abreu Santos Catão · Beatriz de Castro Fialho · Eduardo Krempser |
+| 14 | Strategic Technology Planning | Beatriz de Castro Fialho · Daniel Pacheco Lacerda · Monique Menegaci Barbosa · Leandro Gauss ·
+Eduardo Krempser |
 | 15 | Future Directions and Evaluation Methods | Arash Hajikhani |
 
 ---

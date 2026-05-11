@@ -1,0 +1,22 @@
+# Technology Foresight Data Processing Toolkit
+# Python package requirements
+# Compatible with Python 3.8+
+
+# Core data processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0  # Optional: enhanced statistical visualizations
+
+# Machine learning and statistical analysis
+scikit-learn>=0.24.0
+
+# Geographic data handling
+pycountry>=20.7.3
+
+# Optional: Enhanced features
+# jupyter>=1.0.0  # For interactive notebooks
+# plotly>=5.0.0   # For interactive dashboards
+# networkx>=2.6   # For citation network analysis

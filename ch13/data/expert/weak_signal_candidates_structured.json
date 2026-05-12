@@ -1,0 +1,1512 @@
+[
+    {
+        "ngram": "115 kd 125 kd 16 kd 17",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "125 kd 16 kd 17 kd 175",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "25c tris buffer ph 72 cna0002",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "28000 mr vitamin ddependent calcium binding",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "acid dna",
+        "n_gram": 2,
+        "burst_score": 60.14537641090677
+    },
+    {
+        "ngram": "acid sequence based amplification nasba",
+        "n_gram": 5,
+        "burst_score": 307.42958267246695
+    },
+    {
+        "ngram": "acid sequencebased amplification nasba assay",
+        "n_gram": 5,
+        "burst_score": 33.59287923917018
+    },
+    {
+        "ngram": "acquired immune deficiency syndrome aids",
+        "n_gram": 5,
+        "burst_score": 1.8573956681167347
+    },
+    {
+        "ngram": "acute respiratory syndrome coronavirus sarscov",
+        "n_gram": 5,
+        "burst_score": -12.525253177696142
+    },
+    {
+        "ngram": "adenovirus major late transcription unit",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "amino",
+        "n_gram": 1,
+        "burst_score": 8.40741203736622
+    },
+    {
+        "ngram": "antigen",
+        "n_gram": 1,
+        "burst_score": 47.0401752949109
+    },
+    {
+        "ngram": "antisense rna constructs gene silencing using inhibitory",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "apob mrna editing",
+        "n_gram": 3,
+        "burst_score": -84.08478192685675
+    },
+    {
+        "ngram": "atrial natriuretic polypeptide anp messenger rna",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "autographa californica nuclear polyhedrosis",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "autographa californica nuclear polyhedrosis virus",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "basic fibroblast growth factor bfgf",
+        "n_gram": 5,
+        "burst_score": 1.8573956681167347
+    },
+    {
+        "ngram": "basic fibroblast growth factor messenger",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "basic fibroblast growth factor messenger rna",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "beet necrotic yellow vein virus",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "beta myosin heavy chain",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "beta myosin heavy chain cdna clone",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "beta myosin heavy chain cdna clone phmc3",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "brainderived neurotrophic factor messenger",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "brainderived neurotrophic factor messenger rna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "brainderived neurotrophic factor messenger rnas",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "breast cancer cell line mcf7",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "calcitonin generelated peptide messenger rna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "cardiac beta myosin heavy chain",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "cardiac beta myosin heavy chain cdna",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "cardiac beta myosin heavy chain cdna clone",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "cardiac beta myosin heavy chain mrna",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "cell",
+        "n_gram": 1,
+        "burst_score": 20.346928933327714
+    },
+    {
+        "ngram": "cell lines",
+        "n_gram": 2,
+        "burst_score": 10.722485368014267
+    },
+    {
+        "ngram": "cells",
+        "n_gram": 1,
+        "burst_score": 9.790886015073658
+    },
+    {
+        "ngram": "cellular slime mold dictyostelium discoideum",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "chain reaction",
+        "n_gram": 2,
+        "burst_score": -1.2215827880493997
+    },
+    {
+        "ngram": "chain reaction rtpcr",
+        "n_gram": 3,
+        "burst_score": -13.149809842033678
+    },
+    {
+        "ngram": "chapter contains sections titled introduction",
+        "n_gram": 5,
+        "burst_score": -69.44278129956498
+    },
+    {
+        "ngram": "circulating human blood platelets retain appreciable amounts",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "cleft lip andor cleft palate",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "coli",
+        "n_gram": 1,
+        "burst_score": 13.302341578316826
+    },
+    {
+        "ngram": "coli 16s ribosomal rna",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "coli 23s ribosomal rna",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "coli dnadependent rna polymerase",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "coli transcription termination factor rho",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "cyclic amp response element binding",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "d2 receptor messenger rna",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "decarboxylase 67 messenger rna",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "decarboxylase messenger rna levels",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "deduced amino acid sequence",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "dna",
+        "n_gram": 1,
+        "burst_score": -5.441820938496314
+    },
+    {
+        "ngram": "dna polymerase alpha species",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "dna polymerase dna primase alpha",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "dodecyl sulfate polyacrylamide gel",
+        "n_gram": 4,
+        "burst_score": -60.41431050620076
+    },
+    {
+        "ngram": "dodecyl sulfate polyacrylamide gel electrophoresis",
+        "n_gram": 5,
+        "burst_score": -60.41431050620076
+    },
+    {
+        "ngram": "dodecyl sulfatepolyacrylamide gel electrophoresis",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "dopamine receptor messenger rna",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "electrophoretic mobility shift assay emsa",
+        "n_gram": 5,
+        "burst_score": 8.437233903975542
+    },
+    {
+        "ngram": "endothelial growth factor messenger rna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "enhanced green fluorescent protein egfp",
+        "n_gram": 5,
+        "burst_score": 30.38003726635157
+    },
+    {
+        "ngram": "entry site ires element",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "epidermal growth factor egf receptor",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "epidermal growth factor receptor egfr",
+        "n_gram": 5,
+        "burst_score": 35.07086700693827
+    },
+    {
+        "ngram": "equine encephalitis virus veev",
+        "n_gram": 4,
+        "burst_score": 36.09414690190888
+    },
+    {
+        "ngram": "escherichia coli transcription termination factor",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "euglena gracilis chloroplast ribosomal protein operon",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "eukaryotic translation initiation factor 4e",
+        "n_gram": 5,
+        "burst_score": -49.07130216594163
+    },
+    {
+        "ngram": "eukaryotic translation initiation factor 4e eif4e",
+        "n_gram": 6,
+        "burst_score": -49.07130216594163
+    },
+    {
+        "ngram": "extracellular matrix metalloproteinase inducer",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "extracellular matrix metalloproteinase inducer messenger rna",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "factor alpha messenger rna",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "factor alpha tnf alpha",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "factor ii messenger rna binding protein3",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "factor messenger rna levels",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "fibroblast growth factor messenger rna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "fibroblast growth factor messenger rna expression",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "fibroblast growth factor messenger rna levels",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "fibrosis transmembrane conductance regulator",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "fibrosis transmembrane conductance regulator cftr",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "gene",
+        "n_gram": 1,
+        "burst_score": -1.641417361405395
+    },
+    {
+        "ngram": "gene expression",
+        "n_gram": 2,
+        "burst_score": -3.9086796577512377
+    },
+    {
+        "ngram": "genes",
+        "n_gram": 1,
+        "burst_score": -5.750774533646591
+    },
+    {
+        "ngram": "germ cellfree protein synthesis system",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "glial fibrillary acidic protein gfap",
+        "n_gram": 5,
+        "burst_score": -90.10357762655019
+    },
+    {
+        "ngram": "gonadotrophin releasing hormone receptor",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "green tea seed oil",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "growth factor ii insulinlike growth factor",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "growth factor messenger rna expression",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "growth factor messenger rna levels",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "growth factor receptor messenger rna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "herpes simplex virus thymidine kinase",
+        "n_gram": 5,
+        "burst_score": -33.57305732235694
+    },
+    {
+        "ngram": "herpes simplex virus thymidine kinase gene",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "herpes simplex virus type",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "high molecular weight nuclear rna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "high performance liquid chromatography hplc",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "highly active antiretroviral therapy haart",
+        "n_gram": 5,
+        "burst_score": 1.1184017842326885
+    },
+    {
+        "ngram": "highly transcribed rna polymerase ii genes",
+        "n_gram": 6,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "human cardiac beta myosin heavy chain cdna",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "human immunodeficiency virus",
+        "n_gram": 3,
+        "burst_score": -9.578512198837858
+    },
+    {
+        "ngram": "human immunodeficiency virus type",
+        "n_gram": 4,
+        "burst_score": -10.496386938041319
+    },
+    {
+        "ngram": "human immunodeficiency virus type1 hiv1",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "human peripheral blood mononuclear cells",
+        "n_gram": 5,
+        "burst_score": 12.384850326420004
+    },
+    {
+        "ngram": "human tcell leukemia virus type",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "human telomerase reverse transcriptase htert",
+        "n_gram": 5,
+        "burst_score": 248.7414490576261
+    },
+    {
+        "ngram": "human umbilical vein endothelial cells",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "hydroxylase messenger rna levels",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "ii messenger rna binding protein3",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "inducible nitric oxide synthase inos",
+        "n_gram": 5,
+        "burst_score": 42.272621267966564
+    },
+    {
+        "ngram": "infectious anemia virus eiav",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "infectious bursal disease virus ibdv",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "insulin likegrowth factor ii messenger",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "insulin likegrowth factor ii messenger rna",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "insulin likegrowth factor ii messenger rna binding",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "insulinlike growth",
+        "n_gram": 2,
+        "burst_score": 174.0125725452805
+    },
+    {
+        "ngram": "insulinlike growth factor1 messenger rna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "integrated woodchuck hepatitis virus dna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "internal ribosome entry site",
+        "n_gram": 4,
+        "burst_score": 3.8367688596580045
+    },
+    {
+        "ngram": "internal ribosome entry site ires",
+        "n_gram": 5,
+        "burst_score": 17.655237179090395
+    },
+    {
+        "ngram": "intestinal polypeptidepeptide histidine isoleucine messenger rna",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "kd 115 kd 125 kd 16 kd",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "kd 125 kd 16 kd 17 kd",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "kd 16 kd 17 kd 175 kd",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "late polyadenylation signal",
+        "n_gram": 3,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "light chain messenger rna",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "likegrowth factor ii messenger rna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "likegrowth factor ii messenger rna binding",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "likegrowth factor ii messenger rna binding protein3",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "locked nucleic acid",
+        "n_gram": 3,
+        "burst_score": 2.9708793107009965
+    },
+    {
+        "ngram": "long open reading frame",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "mammalian 28000 mr vitamin ddependent calcium binding",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "matrix metalloproteinase inducer",
+        "n_gram": 3,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "matrixassisted laser desorptionionization mass",
+        "n_gram": 4,
+        "burst_score": 91.5562293140185
+    },
+    {
+        "ngram": "medium chain acylcoa dehydrogenase",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "messenger ribonucleic acid",
+        "n_gram": 3,
+        "burst_score": -23.34172399462528
+    },
+    {
+        "ngram": "messenger rna",
+        "n_gram": 2,
+        "burst_score": -0.8259804042490881
+    },
+    {
+        "ngram": "messenger rna expression",
+        "n_gram": 3,
+        "burst_score": -9.825078095805843
+    },
+    {
+        "ngram": "messenger rna mrna",
+        "n_gram": 3,
+        "burst_score": 7.159949926189258
+    },
+    {
+        "ngram": "methylation guide small nucleolar rnas",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "moloney murine leukemia virus cdna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "moloney murine leukemia virus reverse",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "mosaic virus tmv rna",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "mouse hepatitis virus strain a59",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "mouse mammary tumor virus mmtv",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "mrna",
+        "n_gram": 1,
+        "burst_score": 2.614779479693494
+    },
+    {
+        "ngram": "mrna expression",
+        "n_gram": 2,
+        "burst_score": 6.492394465672632
+    },
+    {
+        "ngram": "myeloblastosis virus dna polymerase",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "myeloblastosis virus reverse transcriptase",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "myosin heavy chain cdna clone",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "myosin heavy chain cdna clone phmc3",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "necrosis factor alpha messenger",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "necrosis factor alpha messenger rna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "necrosis factor alpha tnfalpha",
+        "n_gram": 4,
+        "burst_score": -15.546626825548774
+    },
+    {
+        "ngram": "necrosis factorrelated apoptosisinducing ligand",
+        "n_gram": 4,
+        "burst_score": 49.28937673317529
+    },
+    {
+        "ngram": "neural cell adhesion molecule ncam",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "nitric oxide synthase",
+        "n_gram": 3,
+        "burst_score": 4413.121634412182
+    },
+    {
+        "ngram": "nitric oxide synthase messenger rna",
+        "n_gram": 5,
+        "burst_score": -94.34490150088583
+    },
+    {
+        "ngram": "nitric oxide synthase messenger rna expression",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "nuclear magnetic resonance nmr spectroscopy",
+        "n_gram": 5,
+        "burst_score": 2.2838246847465715
+    },
+    {
+        "ngram": "nucleic acid",
+        "n_gram": 2,
+        "burst_score": 2.751611475741067
+    },
+    {
+        "ngram": "nucleic acid amplification technology nat",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "nucleic acid pna probes",
+        "n_gram": 4,
+        "burst_score": -31.810783543502286
+    },
+    {
+        "ngram": "nucleic acid sequence based amplification",
+        "n_gram": 5,
+        "burst_score": 307.42958267246695
+    },
+    {
+        "ngram": "nucleic acid sequence based amplification nasba",
+        "n_gram": 6,
+        "burst_score": 103.71479133623347
+    },
+    {
+        "ngram": "nucleic acid sequencebased amplification nasba",
+        "n_gram": 5,
+        "burst_score": 147.0099065040441
+    },
+    {
+        "ngram": "nucleic acids",
+        "n_gram": 2,
+        "burst_score": 0.9065791175850935
+    },
+    {
+        "ngram": "nucleotide sequence",
+        "n_gram": 2,
+        "burst_score": 42.94783520073223
+    },
+    {
+        "ngram": "open reading frame",
+        "n_gram": 3,
+        "burst_score": 28.653427362188854
+    },
+    {
+        "ngram": "open reading frames",
+        "n_gram": 3,
+        "burst_score": 12.210959741889654
+    },
+    {
+        "ngram": "open reading frames orfs",
+        "n_gram": 4,
+        "burst_score": 25.60254986896374
+    },
+    {
+        "ngram": "peptide",
+        "n_gram": 1,
+        "burst_score": 20.414726463237358
+    },
+    {
+        "ngram": "peripheral blood mononuclear cells pbmc",
+        "n_gram": 5,
+        "burst_score": -48.787016154855074
+    },
+    {
+        "ngram": "peripheral blood mononuclear cells pbmcs",
+        "n_gram": 5,
+        "burst_score": 72.49292557048544
+    },
+    {
+        "ngram": "polymerase chain reaction",
+        "n_gram": 3,
+        "burst_score": 9.267795075218647
+    },
+    {
+        "ngram": "polymerase chain reaction pcr amplification",
+        "n_gram": 5,
+        "burst_score": -60.41431050620076
+    },
+    {
+        "ngram": "polymerase chain reaction pcr assay",
+        "n_gram": 5,
+        "burst_score": 28.174602618405594
+    },
+    {
+        "ngram": "polymerase chain reaction pcr using",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "polymerase ii pol ii",
+        "n_gram": 4,
+        "burst_score": -18.85714066730657
+    },
+    {
+        "ngram": "polymerase iii pol iii",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "polypyrimidine tract binding protein ptb",
+        "n_gram": 5,
+        "burst_score": -31.33551938537647
+    },
+    {
+        "ngram": "posttranscriptionally added adenylic acid residue",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "potato spindle tuber viroid pstv",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "potato spindle tuber viroid pstvd",
+        "n_gram": 5,
+        "burst_score": -50.179792991767705
+    },
+    {
+        "ngram": "primasedevoid dna polymerase alpha species",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "proc nat acad sci usa",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "proc natl acad sci",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "proc natl acad sci usa",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "proliferating cell nuclear antigen pcna",
+        "n_gram": 5,
+        "burst_score": 1.8573956681167347
+    },
+    {
+        "ngram": "protein",
+        "n_gram": 1,
+        "burst_score": -2.419338514933078
+    },
+    {
+        "ngram": "protein synthesis",
+        "n_gram": 2,
+        "burst_score": -2.9243307221603176
+    },
+    {
+        "ngram": "quantitative nucleic acid sequencebased",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "quantitative polymerase chain reaction pcr",
+        "n_gram": 5,
+        "burst_score": -74.53565108297082
+    },
+    {
+        "ngram": "quantitative realtime polymerase chain reaction",
+        "n_gram": 5,
+        "burst_score": 66.886096281304
+    },
+    {
+        "ngram": "quantitative realtime reverse",
+        "n_gram": 3,
+        "burst_score": 93.3007130534398
+    },
+    {
+        "ngram": "quantitative reverse transcriptasepolymerase",
+        "n_gram": 3,
+        "burst_score": 93.66387704789818
+    },
+    {
+        "ngram": "quantitative reverse transcription polymerase",
+        "n_gram": 4,
+        "burst_score": 742.7301813827636
+    },
+    {
+        "ngram": "quantitative reverse transcription polymerase chain",
+        "n_gram": 5,
+        "burst_score": 742.7301813827636
+    },
+    {
+        "ngram": "quantitative reverse transcription polymerase chain reaction",
+        "n_gram": 6,
+        "burst_score": 742.7301813827636
+    },
+    {
+        "ngram": "quantitative reverse transcriptionpolymerase",
+        "n_gram": 3,
+        "burst_score": -12.454280743311772
+    },
+    {
+        "ngram": "quantitative reversetranscription polymerase",
+        "n_gram": 3,
+        "burst_score": 17.23405379148648
+    },
+    {
+        "ngram": "rat aortic smooth muscle cells",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "rat vascular smooth muscle cells",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "reaction rtpcr",
+        "n_gram": 2,
+        "burst_score": -13.149809842033678
+    },
+    {
+        "ngram": "realtime nucleic acid sequencebased amplification",
+        "n_gram": 5,
+        "burst_score": 2.2789762817342183
+    },
+    {
+        "ngram": "realtime polymerase chain reaction",
+        "n_gram": 4,
+        "burst_score": 15.722528480820024
+    },
+    {
+        "ngram": "realtime quantitative polymerase chain reaction",
+        "n_gram": 5,
+        "burst_score": 16.626377982047828
+    },
+    {
+        "ngram": "realtime quantitative reverse transcription polymerase",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "realtime quantitative reverse transcription polymerase chain",
+        "n_gram": 6,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "realtime quantitative reverse transcription polymerase chain reaction",
+        "n_gram": 7,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "realtime reverse transcriptase polymerase chain",
+        "n_gram": 5,
+        "burst_score": -82.88162438310393
+    },
+    {
+        "ngram": "realtime reverse transcriptase polymerase chain reaction",
+        "n_gram": 6,
+        "burst_score": -82.88162438310393
+    },
+    {
+        "ngram": "realtime reverse transcription polymerase chain",
+        "n_gram": 5,
+        "burst_score": -76.79890352795773
+    },
+    {
+        "ngram": "realtime reverse transcription polymerase chain reaction",
+        "n_gram": 6,
+        "burst_score": -76.17641714188879
+    },
+    {
+        "ngram": "realtime reverse transcriptionpolymerase chain",
+        "n_gram": 4,
+        "burst_score": 2.177547289471099
+    },
+    {
+        "ngram": "realtime reversetranscription polymerase chain",
+        "n_gram": 4,
+        "burst_score": 52.41659656023309
+    },
+    {
+        "ngram": "receptor messenger ribonucleic acid",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "resonance energy transfer fret",
+        "n_gram": 4,
+        "burst_score": 154.2686487515954
+    },
+    {
+        "ngram": "respiratory syndrome coronavirus sarscov",
+        "n_gram": 4,
+        "burst_score": -12.525253177696142
+    },
+    {
+        "ngram": "respiratory viral panel multiplex nucleic acid assay",
+        "n_gram": 7,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "reverse transcriptase polymerase chain",
+        "n_gram": 4,
+        "burst_score": -5.960781093532433
+    },
+    {
+        "ngram": "reverse transcriptase polymerase chain reaction",
+        "n_gram": 5,
+        "burst_score": -8.871361260911106
+    },
+    {
+        "ngram": "reverse transcriptasepolymerase chain reaction",
+        "n_gram": 4,
+        "burst_score": 42.25174754381947
+    },
+    {
+        "ngram": "reverse transcription loopmediated isothermal",
+        "n_gram": 4,
+        "burst_score": 317.2071020347629
+    },
+    {
+        "ngram": "reverse transcription polymerase chain",
+        "n_gram": 4,
+        "burst_score": 430.9863411151305
+    },
+    {
+        "ngram": "reverse transcription polymerase chain reaction",
+        "n_gram": 5,
+        "burst_score": 376.5749150152252
+    },
+    {
+        "ngram": "reverse transcriptionpolymerase chain reaction",
+        "n_gram": 4,
+        "burst_score": -21.107954464848465
+    },
+    {
+        "ngram": "reversetranscriptase polymerase chain reaction",
+        "n_gram": 4,
+        "burst_score": 13.942950478232788
+    },
+    {
+        "ngram": "reversetranscription polymerase chain reaction",
+        "n_gram": 4,
+        "burst_score": 62.060179016069405
+    },
+    {
+        "ngram": "ribonucleic acid",
+        "n_gram": 2,
+        "burst_score": 115.38960981806679
+    },
+    {
+        "ngram": "ribonucleic acid rna",
+        "n_gram": 3,
+        "burst_score": 65.46977697654435
+    },
+    {
+        "ngram": "ribosomal entry site ires",
+        "n_gram": 4,
+        "burst_score": 11.413765724840049
+    },
+    {
+        "ngram": "ribosome",
+        "n_gram": 1,
+        "burst_score": -6.991992576797168
+    },
+    {
+        "ngram": "ribosome entry site ires",
+        "n_gram": 4,
+        "burst_score": 11.910498722993271
+    },
+    {
+        "ngram": "ribosome entry site ires element",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "ribosome entry sites iress",
+        "n_gram": 4,
+        "burst_score": 15.336911510469706
+    },
+    {
+        "ngram": "rna",
+        "n_gram": 1,
+        "burst_score": -0.20326290133856617
+    },
+    {
+        "ngram": "rna chain",
+        "n_gram": 2,
+        "burst_score": 19.0825963811877
+    },
+    {
+        "ngram": "rna editing",
+        "n_gram": 2,
+        "burst_score": 67.57999579564404
+    },
+    {
+        "ngram": "rna polymerase",
+        "n_gram": 2,
+        "burst_score": -4.71766262151472
+    },
+    {
+        "ngram": "rna polymerase ii",
+        "n_gram": 3,
+        "burst_score": -13.892654594023131
+    },
+    {
+        "ngram": "rna polymerase iii",
+        "n_gram": 3,
+        "burst_score": -8.916415392454699
+    },
+    {
+        "ngram": "rna secondary structure",
+        "n_gram": 3,
+        "burst_score": 35.41056389207963
+    },
+    {
+        "ngram": "rna secondary structures",
+        "n_gram": 3,
+        "burst_score": 39.520288395807434
+    },
+    {
+        "ngram": "rna synthesis",
+        "n_gram": 2,
+        "burst_score": -3.796592934178608
+    },
+    {
+        "ngram": "rnas",
+        "n_gram": 1,
+        "burst_score": -2.9018357969014223
+    },
+    {
+        "ngram": "secondary structure",
+        "n_gram": 2,
+        "burst_score": -7.292267424488943
+    },
+    {
+        "ngram": "semiquantitative reverse transcriptasepolymerase",
+        "n_gram": 3,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "semiquantitative reverse transcriptionpolymerase",
+        "n_gram": 3,
+        "burst_score": -30.359666402848468
+    },
+    {
+        "ngram": "sequence",
+        "n_gram": 1,
+        "burst_score": -4.031261982543252
+    },
+    {
+        "ngram": "severe acute respiratory syndrome coronavirus",
+        "n_gram": 5,
+        "burst_score": 50.683106700400785
+    },
+    {
+        "ngram": "severe acute respiratory syndrome sars",
+        "n_gram": 5,
+        "burst_score": -17.85288870498938
+    },
+    {
+        "ngram": "simian virus 40",
+        "n_gram": 3,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "simian virus 40 late polyadenylation signal",
+        "n_gram": 6,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "simplex virus thymidine kinase gene",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "single long open reading frame",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "small interfering rna",
+        "n_gram": 3,
+        "burst_score": 23.937270019098733
+    },
+    {
+        "ngram": "small nuclear ribonucleoprotein particle snrnp",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "small nuclear ribonucleoprotein particles snrnps",
+        "n_gram": 5,
+        "burst_score": -48.6448731493118
+    },
+    {
+        "ngram": "small rna polymerase iii genes",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "sodium dodecyl sulfatepolyacrylamide gel electrophoresis",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "splice site",
+        "n_gram": 2,
+        "burst_score": 14.505575398059605
+    },
+    {
+        "ngram": "sulfate polyacrylamide gel electrophoresis",
+        "n_gram": 4,
+        "burst_score": -60.41431050620076
+    },
+    {
+        "ngram": "synthase messenger rna expression",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "synthesis",
+        "n_gram": 1,
+        "burst_score": -9.234729237408503
+    },
+    {
+        "ngram": "transcriptase polymerase chain reaction rtpcr",
+        "n_gram": 5,
+        "burst_score": 20.327332459274654
+    },
+    {
+        "ngram": "transcription polymerase chain reaction",
+        "n_gram": 4,
+        "burst_score": 376.5749150152252
+    },
+    {
+        "ngram": "transcription polymerase chain reaction rtpcr",
+        "n_gram": 5,
+        "burst_score": 47.76898159949708
+    },
+    {
+        "ngram": "transcriptionpolymerase chain reaction",
+        "n_gram": 3,
+        "burst_score": -21.107954464848465
+    },
+    {
+        "ngram": "transfection analysis stable transfection using nonreplicating dna",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "transfection using episomally maintained vectors transfection methods",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "transfer procedures ruminant embryonic cells nuclear transfer",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "transgene silencing factors influencing transgene silencing box",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "transgenic animals overcoming position effects recombinationbased methodology",
+        "n_gram": 7,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "translation initiation factor 4e eif4e",
+        "n_gram": 5,
+        "burst_score": -49.07130216594163
+    },
+    {
+        "ngram": "transmembrane conductance regulator cftr",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "tumor",
+        "n_gram": 1,
+        "burst_score": 6.881829369874478
+    },
+    {
+        "ngram": "turnip yellow mosaic virus rna",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "turnip yellow mosaic virus tymv",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "two open reading frames orfs",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "type iii procollagen messenger rna expression",
+        "n_gram": 6,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "u1 rna",
+        "n_gram": 2,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "u1 small nuclear ribonucleoprotein particle",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "u6 small nuclear rna snrna",
+        "n_gram": 5,
+        "burst_score": -40.396068998645646
+    },
+    {
+        "ngram": "using realtime polymerase chain reaction",
+        "n_gram": 5,
+        "burst_score": 127.34347828022028
+    },
+    {
+        "ngram": "using reverse transcriptase polymerase chain",
+        "n_gram": 5,
+        "burst_score": 118.1526818612674
+    },
+    {
+        "ngram": "using reverse transcriptasepolymerase chain",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "using reverse transcriptionpolymerase chain",
+        "n_gram": 4,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "vascular endothelial growth factor",
+        "n_gram": 4,
+        "burst_score": -18.43571991877655
+    },
+    {
+        "ngram": "vascular endothelial growth factor vegf",
+        "n_gram": 5,
+        "burst_score": -30.955010512542486
+    },
+    {
+        "ngram": "vascular smooth muscle cells vsmcs",
+        "n_gram": 5,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "viral diarrhea virus bvdv",
+        "n_gram": 4,
+        "burst_score": -66.78652866117845
+    },
+    {
+        "ngram": "virus",
+        "n_gram": 1,
+        "burst_score": -0.7475311332642925
+    },
+    {
+        "ngram": "virus 40",
+        "n_gram": 2,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "virus 40 early mrnas",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "virus 40 late polyadenylation",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "virus 40 sv40 dna",
+        "n_gram": 4,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "wheat germ cellfree protein synthesis",
+        "n_gram": 5,
+        "burst_score": -94.46442144352974
+    },
+    {
+        "ngram": "wheat germ cellfree protein synthesis system",
+        "n_gram": 6,
+        "burst_score": -100.0
+    },
+    {
+        "ngram": "wheat germ rna polymerase ii",
+        "n_gram": 5,
+        "burst_score": NaN
+    },
+    {
+        "ngram": "woodchuck hepatitis virus",
+        "n_gram": 3,
+        "burst_score": 6.576361916263468
+    },
+    {
+        "ngram": "woodchuck hepatitis virus dna",
+        "n_gram": 4,
+        "burst_score": NaN
+    }
+]

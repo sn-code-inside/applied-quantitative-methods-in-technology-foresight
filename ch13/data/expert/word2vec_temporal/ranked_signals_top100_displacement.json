@@ -1,0 +1,602 @@
+[
+    {
+        "ngram":"dna",
+        "n_gram":1,
+        "burst_score":-5.4418209385,
+        "Semantic_Displacement":1.0299751442
+    },
+    {
+        "ngram":"nitric oxide synthase",
+        "n_gram":3,
+        "burst_score":4413.1216344122,
+        "Semantic_Displacement":0.9619882964
+    },
+    {
+        "ngram":"coli",
+        "n_gram":1,
+        "burst_score":13.3023415783,
+        "Semantic_Displacement":0.946229253
+    },
+    {
+        "ngram":"human immunodeficiency virus",
+        "n_gram":3,
+        "burst_score":-9.5785121988,
+        "Semantic_Displacement":0.9310326651
+    },
+    {
+        "ngram":"human immunodeficiency virus type1 hiv1",
+        "n_gram":5,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.9310326651
+    },
+    {
+        "ngram":"acquired immune deficiency syndrome aids",
+        "n_gram":5,
+        "burst_score":1.8573956681,
+        "Semantic_Displacement":0.9124742523
+    },
+    {
+        "ngram":"virus 40",
+        "n_gram":2,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.9022896141
+    },
+    {
+        "ngram":"virus",
+        "n_gram":1,
+        "burst_score":-0.7475311333,
+        "Semantic_Displacement":0.9022896141
+    },
+    {
+        "ngram":"open reading frame",
+        "n_gram":3,
+        "burst_score":28.6534273622,
+        "Semantic_Displacement":0.9014672637
+    },
+    {
+        "ngram":"antigen",
+        "n_gram":1,
+        "burst_score":47.0401752949,
+        "Semantic_Displacement":0.8942201585
+    },
+    {
+        "ngram":"chapter contains sections titled introduction",
+        "n_gram":5,
+        "burst_score":-69.4427812996,
+        "Semantic_Displacement":0.8936931789
+    },
+    {
+        "ngram":"synthesis",
+        "n_gram":1,
+        "burst_score":-9.2347292374,
+        "Semantic_Displacement":0.8934716806
+    },
+    {
+        "ngram":"woodchuck hepatitis virus",
+        "n_gram":3,
+        "burst_score":6.5763619163,
+        "Semantic_Displacement":0.8833673373
+    },
+    {
+        "ngram":"equine encephalitis virus veev",
+        "n_gram":4,
+        "burst_score":36.0941469019,
+        "Semantic_Displacement":0.8750280663
+    },
+    {
+        "ngram":"human immunodeficiency virus type",
+        "n_gram":4,
+        "burst_score":-10.496386938,
+        "Semantic_Displacement":0.8746072501
+    },
+    {
+        "ngram":"virus 40 sv40 dna",
+        "n_gram":4,
+        "burst_score":null,
+        "Semantic_Displacement":0.874281168
+    },
+    {
+        "ngram":"inducible nitric oxide synthase inos",
+        "n_gram":5,
+        "burst_score":42.272621268,
+        "Semantic_Displacement":0.8731516898
+    },
+    {
+        "ngram":"long open reading frame",
+        "n_gram":4,
+        "burst_score":null,
+        "Semantic_Displacement":0.8726219088
+    },
+    {
+        "ngram":"acid dna",
+        "n_gram":2,
+        "burst_score":60.1453764109,
+        "Semantic_Displacement":0.8678019792
+    },
+    {
+        "ngram":"infectious bursal disease virus ibdv",
+        "n_gram":5,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.8638544232
+    },
+    {
+        "ngram":"nucleic acid",
+        "n_gram":2,
+        "burst_score":2.7516114757,
+        "Semantic_Displacement":0.8634085357
+    },
+    {
+        "ngram":"open reading frames",
+        "n_gram":3,
+        "burst_score":12.2109597419,
+        "Semantic_Displacement":0.8609744012
+    },
+    {
+        "ngram":"ribosome",
+        "n_gram":1,
+        "burst_score":-6.9919925768,
+        "Semantic_Displacement":0.8563877195
+    },
+    {
+        "ngram":"amino",
+        "n_gram":1,
+        "burst_score":8.4074120374,
+        "Semantic_Displacement":0.8470563442
+    },
+    {
+        "ngram":"open reading frames orfs",
+        "n_gram":4,
+        "burst_score":25.602549869,
+        "Semantic_Displacement":0.8465686888
+    },
+    {
+        "ngram":"moloney murine leukemia virus cdna",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.8449377418
+    },
+    {
+        "ngram":"mouse hepatitis virus strain a59",
+        "n_gram":5,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.8420499563
+    },
+    {
+        "ngram":"locked nucleic acid",
+        "n_gram":3,
+        "burst_score":2.9708793107,
+        "Semantic_Displacement":0.8397442698
+    },
+    {
+        "ngram":"nucleic acid sequencebased amplification nasba",
+        "n_gram":5,
+        "burst_score":147.009906504,
+        "Semantic_Displacement":0.837309584
+    },
+    {
+        "ngram":"entry site ires element",
+        "n_gram":4,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.8359798193
+    },
+    {
+        "ngram":"herpes simplex virus type",
+        "n_gram":4,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.8344964832
+    },
+    {
+        "ngram":"high performance liquid chromatography hplc",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.8330989629
+    },
+    {
+        "ngram":"woodchuck hepatitis virus dna",
+        "n_gram":4,
+        "burst_score":null,
+        "Semantic_Displacement":0.8305309862
+    },
+    {
+        "ngram":"integrated woodchuck hepatitis virus dna",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.828354165
+    },
+    {
+        "ngram":"moloney murine leukemia virus reverse",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.8274539858
+    },
+    {
+        "ngram":"quantitative nucleic acid sequencebased",
+        "n_gram":4,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.8235453367
+    },
+    {
+        "ngram":"gonadotrophin releasing hormone receptor",
+        "n_gram":4,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.8229712099
+    },
+    {
+        "ngram":"acid sequencebased amplification nasba assay",
+        "n_gram":5,
+        "burst_score":33.5928792392,
+        "Semantic_Displacement":0.8224016577
+    },
+    {
+        "ngram":"simian virus 40",
+        "n_gram":3,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.81926395
+    },
+    {
+        "ngram":"nucleic acids",
+        "n_gram":2,
+        "burst_score":0.9065791176,
+        "Semantic_Displacement":0.8185309172
+    },
+    {
+        "ngram":"beet necrotic yellow vein virus",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.8165049553
+    },
+    {
+        "ngram":"green tea seed oil",
+        "n_gram":4,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.8157305419
+    },
+    {
+        "ngram":"realtime nucleic acid sequencebased amplification",
+        "n_gram":5,
+        "burst_score":2.2789762817,
+        "Semantic_Displacement":0.8157176226
+    },
+    {
+        "ngram":"single long open reading frame",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.8156532943
+    },
+    {
+        "ngram":"highly active antiretroviral therapy haart",
+        "n_gram":5,
+        "burst_score":1.1184017842,
+        "Semantic_Displacement":0.8135678172
+    },
+    {
+        "ngram":"ribosome entry site ires element",
+        "n_gram":5,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.8092573881
+    },
+    {
+        "ngram":"nucleic acid amplification technology nat",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.8058832288
+    },
+    {
+        "ngram":"infectious anemia virus eiav",
+        "n_gram":4,
+        "burst_score":null,
+        "Semantic_Displacement":0.8046598434
+    },
+    {
+        "ngram":"respiratory syndrome coronavirus sarscov",
+        "n_gram":4,
+        "burst_score":-12.5252531777,
+        "Semantic_Displacement":0.8043746203
+    },
+    {
+        "ngram":"acute respiratory syndrome coronavirus sarscov",
+        "n_gram":5,
+        "burst_score":-12.5252531777,
+        "Semantic_Displacement":0.8030006588
+    },
+    {
+        "ngram":"nucleic acid sequence based amplification",
+        "n_gram":5,
+        "burst_score":307.4295826725,
+        "Semantic_Displacement":0.7929812521
+    },
+    {
+        "ngram":"cellular slime mold dictyostelium discoideum",
+        "n_gram":5,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.788457185
+    },
+    {
+        "ngram":"ribosome entry site ires",
+        "n_gram":4,
+        "burst_score":11.910498723,
+        "Semantic_Displacement":0.7883533686
+    },
+    {
+        "ngram":"sequence",
+        "n_gram":1,
+        "burst_score":-4.0312619825,
+        "Semantic_Displacement":0.7869739085
+    },
+    {
+        "ngram":"rnas",
+        "n_gram":1,
+        "burst_score":-2.9018357969,
+        "Semantic_Displacement":0.7868872434
+    },
+    {
+        "ngram":"insulinlike growth",
+        "n_gram":2,
+        "burst_score":174.0125725453,
+        "Semantic_Displacement":0.7852807194
+    },
+    {
+        "ngram":"two open reading frames orfs",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.7833201885
+    },
+    {
+        "ngram":"electrophoretic mobility shift assay emsa",
+        "n_gram":5,
+        "burst_score":8.437233904,
+        "Semantic_Displacement":0.7800498158
+    },
+    {
+        "ngram":"nitric oxide synthase messenger rna",
+        "n_gram":5,
+        "burst_score":-94.3449015009,
+        "Semantic_Displacement":0.7769836336
+    },
+    {
+        "ngram":"escherichia coli transcription termination factor",
+        "n_gram":5,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.7742526233
+    },
+    {
+        "ngram":"translation initiation factor 4e eif4e",
+        "n_gram":5,
+        "burst_score":-49.0713021659,
+        "Semantic_Displacement":0.7741950452
+    },
+    {
+        "ngram":"potato spindle tuber viroid pstv",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.7730298638
+    },
+    {
+        "ngram":"acid sequence based amplification nasba",
+        "n_gram":5,
+        "burst_score":307.4295826725,
+        "Semantic_Displacement":0.7717140615
+    },
+    {
+        "ngram":"dna polymerase dna primase alpha",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.7709685713
+    },
+    {
+        "ngram":"internal ribosome entry site ires",
+        "n_gram":5,
+        "burst_score":17.6552371791,
+        "Semantic_Displacement":0.7692290097
+    },
+    {
+        "ngram":"nucleic acid sequence based amplification nasba",
+        "n_gram":6,
+        "burst_score":103.7147913362,
+        "Semantic_Displacement":0.7676458806
+    },
+    {
+        "ngram":"severe acute respiratory syndrome sars",
+        "n_gram":5,
+        "burst_score":-17.852888705,
+        "Semantic_Displacement":0.7673545629
+    },
+    {
+        "ngram":"myeloblastosis virus dna polymerase",
+        "n_gram":4,
+        "burst_score":null,
+        "Semantic_Displacement":0.7667805254
+    },
+    {
+        "ngram":"nucleotide sequence",
+        "n_gram":2,
+        "burst_score":42.9478352007,
+        "Semantic_Displacement":0.7667646855
+    },
+    {
+        "ngram":"viral diarrhea virus bvdv",
+        "n_gram":4,
+        "burst_score":-66.7865286612,
+        "Semantic_Displacement":0.7666894346
+    },
+    {
+        "ngram":"protein",
+        "n_gram":1,
+        "burst_score":-2.4193385149,
+        "Semantic_Displacement":0.7647081465
+    },
+    {
+        "ngram":"potato spindle tuber viroid pstvd",
+        "n_gram":5,
+        "burst_score":-50.1797929918,
+        "Semantic_Displacement":0.7625693977
+    },
+    {
+        "ngram":"turnip yellow mosaic virus tymv",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.7606006116
+    },
+    {
+        "ngram":"nucleic acid pna probes",
+        "n_gram":4,
+        "burst_score":-31.8107835435,
+        "Semantic_Displacement":0.7600236684
+    },
+    {
+        "ngram":"myeloblastosis virus reverse transcriptase",
+        "n_gram":4,
+        "burst_score":null,
+        "Semantic_Displacement":0.7582516223
+    },
+    {
+        "ngram":"small interfering rna",
+        "n_gram":3,
+        "burst_score":23.9372700191,
+        "Semantic_Displacement":0.7528750151
+    },
+    {
+        "ngram":"internal ribosome entry site",
+        "n_gram":4,
+        "burst_score":3.8367688597,
+        "Semantic_Displacement":0.7527552396
+    },
+    {
+        "ngram":"herpes simplex virus thymidine kinase",
+        "n_gram":5,
+        "burst_score":-33.5730573224,
+        "Semantic_Displacement":0.75063546
+    },
+    {
+        "ngram":"human tcell leukemia virus type",
+        "n_gram":5,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.7484685183
+    },
+    {
+        "ngram":"u1 rna",
+        "n_gram":2,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.7476351261
+    },
+    {
+        "ngram":"rna",
+        "n_gram":1,
+        "burst_score":-0.2032629013,
+        "Semantic_Displacement":0.7476351261
+    },
+    {
+        "ngram":"rna polymerase",
+        "n_gram":2,
+        "burst_score":-4.7176626215,
+        "Semantic_Displacement":0.747035563
+    },
+    {
+        "ngram":"vascular endothelial growth factor",
+        "n_gram":4,
+        "burst_score":-18.4357199188,
+        "Semantic_Displacement":0.7454838753
+    },
+    {
+        "ngram":"ribosomal entry site ires",
+        "n_gram":4,
+        "burst_score":11.4137657248,
+        "Semantic_Displacement":0.7453351915
+    },
+    {
+        "ngram":"human peripheral blood mononuclear cells",
+        "n_gram":5,
+        "burst_score":12.3848503264,
+        "Semantic_Displacement":0.7452488244
+    },
+    {
+        "ngram":"necrosis factorrelated apoptosisinducing ligand",
+        "n_gram":4,
+        "burst_score":49.2893767332,
+        "Semantic_Displacement":0.7444737852
+    },
+    {
+        "ngram":"human umbilical vein endothelial cells",
+        "n_gram":5,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.7441935241
+    },
+    {
+        "ngram":"severe acute respiratory syndrome coronavirus",
+        "n_gram":5,
+        "burst_score":50.6831067004,
+        "Semantic_Displacement":0.7409351766
+    },
+    {
+        "ngram":"eukaryotic translation initiation factor 4e",
+        "n_gram":5,
+        "burst_score":-49.0713021659,
+        "Semantic_Displacement":0.7399968803
+    },
+    {
+        "ngram":"eukaryotic translation initiation factor 4e eif4e",
+        "n_gram":6,
+        "burst_score":-49.0713021659,
+        "Semantic_Displacement":0.7399968803
+    },
+    {
+        "ngram":"polymerase ii pol ii",
+        "n_gram":4,
+        "burst_score":-18.8571406673,
+        "Semantic_Displacement":0.7385280132
+    },
+    {
+        "ngram":"chain reaction",
+        "n_gram":2,
+        "burst_score":-1.221582788,
+        "Semantic_Displacement":0.7349568605
+    },
+    {
+        "ngram":"coli transcription termination factor rho",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.7331514657
+    },
+    {
+        "ngram":"reverse transcription loopmediated isothermal",
+        "n_gram":4,
+        "burst_score":317.2071020348,
+        "Semantic_Displacement":0.7318617404
+    },
+    {
+        "ngram":"turnip yellow mosaic virus rna",
+        "n_gram":5,
+        "burst_score":null,
+        "Semantic_Displacement":0.7300970554
+    },
+    {
+        "ngram":"mouse mammary tumor virus mmtv",
+        "n_gram":5,
+        "burst_score":-100.0,
+        "Semantic_Displacement":0.7283855975
+    },
+    {
+        "ngram":"ribonucleic acid",
+        "n_gram":2,
+        "burst_score":115.3896098181,
+        "Semantic_Displacement":0.725712657
+    },
+    {
+        "ngram":"mrna",
+        "n_gram":1,
+        "burst_score":2.6147794797,
+        "Semantic_Displacement":0.7256984115
+    },
+    {
+        "ngram":"rna chain",
+        "n_gram":2,
+        "burst_score":19.0825963812,
+        "Semantic_Displacement":0.7253837287
+    },
+    {
+        "ngram":"secondary structure",
+        "n_gram":2,
+        "burst_score":-7.2922674245,
+        "Semantic_Displacement":0.7252632976
+    }
+]

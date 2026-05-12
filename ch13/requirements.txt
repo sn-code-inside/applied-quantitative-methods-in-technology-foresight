@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+scikit-learn>=1.1
+gensim>=4.3
+nltk>=3.8
+openpyxl>=3.0
+pyarrow>=10.0
+tabulate>=0.9

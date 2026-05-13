@@ -280,7 +280,7 @@ For questions about Chapter 11 code:
 Vocational School of Health Services  
 Email: mvolkang@gmail.com
 
-**Dilek Özdemir GUNGOR**
+**Dilek Özdemir GÜNGÖR**
 İzmir Katip Celebi University  
 Department of Data Science and Analytics  
 Email: dilek.ozdemir.gungor@ikcu.edu.tr

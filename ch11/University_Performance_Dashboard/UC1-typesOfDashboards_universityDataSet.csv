@@ -1,0 +1,10 @@
+faculty;month;students;satisfaction;publications;budget;attendance_rate
+Engineering;Jan;1200;82;15;120000;88
+Business;Jan;800;78;10;90000;84
+Arts;Jan;600;85;8;60000;92
+Engineering;Feb;1220;83;16;118000;87
+Business;Feb;790;80;9;91000;85
+Arts;Feb;610;84;7;61000;90
+Engineering;Mar;1250;84;17;119000;89
+Business;Mar;810;79;11;93000;83
+Arts;Mar;620;86;9;61500;91

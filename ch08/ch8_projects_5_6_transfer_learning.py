@@ -677,7 +677,7 @@ def main():
         ),
     ]
 
-    print("\n=== Project 5: Feature Extraction (Frozen Backbone) ===")
+    print("\n=== PROJECT 5: Feature Extraction (Frozen Backbone) ===")
 
     hist_a = model_a.fit(
         ds_train,
@@ -701,7 +701,7 @@ def main():
         y_true_a,
         y_pred_a,
         class_names,
-        tag="Project5"
+        tag="project_5"
     )
 
     payload_a = {
@@ -734,7 +734,7 @@ def main():
     ) as f:
         json.dump(payload_a, f, indent=2)
 
-    print("\n--- FINAL (Project 5: Feature Extraction) ---")
+    print("\n--- FINAL (Project 5) ---")
     print("Test accuracy:", test_a.get("accuracy"))
     print(rep_txt_a)
 
@@ -779,7 +779,7 @@ def main():
         ),
     ]
 
-    print("\n=== Project 6: Fine-tuning (Partial Unfreeze + Low LR) ===")
+    print("\n=== PROJECT 6: Fine-Tuning (Partial Unfreeze + Low LR) ===")
 
     hist_b = model_b.fit(
         ds_train,
@@ -803,7 +803,7 @@ def main():
         y_true_b,
         y_pred_b,
         class_names,
-        tag="Project6"
+        tag="project_6"
     )
 
     payload_b = {
@@ -836,7 +836,7 @@ def main():
     ) as f:
         json.dump(payload_b, f, indent=2)
 
-    print("\n--- FINAL (Project 6 - Fine-tuning) ---")
+    print("\n--- FINAL (Project 6) ---")
     print("Test accuracy:", test_b.get("accuracy"))
     print(rep_txt_b)
 

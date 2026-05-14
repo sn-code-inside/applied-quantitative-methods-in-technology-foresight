@@ -3,7 +3,7 @@
 ## Overview
 
 > **Authors:**
-> *Halime Özge Kabak, Assoc. Prof. Dr. Sila Ovgu Korkut** and Prof. Dr. Femin Yalcin**
+> *Halime Ozge Kabak, Assoc. Prof. Dr. Sila Ovgu Korkut** and Prof. Dr. Femin Yalcin**
 >
 > **Affiliations:** *RDT INGENIEROS, **Izmir Katip Celebi University, Faculty of Engineering and Architecture, Department of Engineering Sciences
 > 

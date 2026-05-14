@@ -206,7 +206,7 @@ python ch8_projects_5_6_transfer_learning.py
 %run ch8_projects_5_6_transfer_learnings.py
 ```
 
-Each script automatically generates tables, figures, forecasts, statistical summaries, and visualization outputs inside dedicated output folders.
+#### Each script automatically generates tables, figures, forecasts, statistical summaries, and visualization outputs inside dedicated output folders.
 ---
 
 ## Data Sources
@@ -231,11 +231,6 @@ The two ZIP-based datasets exceed GitHub's file size limit and are hosted extern
 - **`bean_dataset.zip`** → contains `angular_leaf_spot/`, `bean_rust/`, `healthy/`
   Used by `ch8_projects_5_6_transfer_learning.py` for transfer learning experiments. The script handles extraction and train/validation/test splitting automatically.
 
-### Runtime Download
-
-- **Per-Capita Energy Use** is fetched directly from the Our World in Data server when `ch8_project_1_energy_technology_trend_forecasting.py` is executed. No manual download is required.
-
-> **Reproducibility note:** URL-based data may change over time. For archival reproducibility, download the CSV once and set the `URL` variable in the script to the local file path.
 ---
 
 ## Notes
@@ -252,12 +247,7 @@ The scripts emphasize pedagogical clarity and reproducibility over computational
 - The chapter combines quantitative rigor with critical reflection on the limitations of deep learning forecasting in technology foresight contexts, including data scarcity, domain shift, and model interpretability.
 - Minor numerical differences may occur across different operating systems, hardware configurations, and package versions. These differences are common in deep learning workflows and do not invalidate the reported results.
 
----
-
-*Part of: **Applied Quantitative Methods in Technology Foresight: AI-Enhanced Approaches** — Springer*  
-*Repository: https://github.com/sn-code-inside/applied-quantitative-methods-in-technology-foresight/*
-
-# Reproducibility
+## Reproducibility
 
 The implementations emphasize reproducibility through:
 
@@ -269,5 +259,10 @@ The implementations emphasize reproducibility through:
 -Local dataset loading as a reproducible alternative to URL-based loading
 -Saved model checkpoints, evaluation metrics, training histories, and configuration files
 
-
 Minor numerical differences may occur across different operating systems, hardware configurations, and package versions. Some GPU operations may remain nondeterministic depending on CUDA and cuDNN versions. For strict reproducibility, CPU execution is recommended.
+
+---
+
+*Part of: **Applied Quantitative Methods in Technology Foresight: AI-Enhanced Approaches** — Springer*  
+*Repository: https://github.com/sn-code-inside/applied-quantitative-methods-in-technology-foresight/*
+

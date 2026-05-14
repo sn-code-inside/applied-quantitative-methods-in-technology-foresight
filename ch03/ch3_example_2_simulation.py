@@ -1,4 +1,4 @@
-# EX3_2_simulation.py
+# ch3_example_2_simulation.py
 # ============================================================
 # Example 3.2
 # Monte Carlo Simulation of Technology Adoption
@@ -35,7 +35,7 @@ from pathlib import Path
 
 np.random.seed(42)
 
-OUT_DIR = Path("outputs_ex3_2")
+OUT_DIR = Path("outputs_ch3_example_2")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 

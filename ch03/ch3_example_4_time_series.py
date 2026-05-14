@@ -1,4 +1,4 @@
-a# ch3_example_4_time_series.py
+# ch3_example_4_time_series.py
 # ============================================================
 # Example 3.4
 # Time Series Forecasting of Publication Counts

@@ -59,13 +59,13 @@ Each script automatically saves all outputs to dedicated folders. No manual path
 | `outputs_ch8_project_4/` | `entity_network.csv` | Entity co-occurrence network with source, target, and edge weight columns |
 | `outputs_ch8_case_study/` | `sentiment_by_year.csv` | Yearly sentiment distribution of policy-related scientific abstracts |
 | `outputs_ch8_projects_5_6/` | `run_metadata.json` | Experiment configuration, library versions, and determinism environment variables |
-| `outputs_ch8_project_5/feature_extraction/` | `best.keras` | Best model checkpoint saved during Project 5 feature extraction training |
+| `outputs_ch8_projects_5_6/outputs_ch8_project_5/feature_extraction/` | `best.keras` | Best model checkpoint saved during Project 5 feature extraction training |
 | | `metrics.json` | Training history, test accuracy, and artifact paths for Project 5 |
 | | `classification_report_project_5.txt` | Text classification report with precision, recall, F1-score, and support per class |
 | | `classification_report_project_5.csv` | CSV version of the Project 5 classification report for table use |
 | | `confusion_matrix_project_5.npy` | Raw confusion matrix values stored as a NumPy array |
 | | `confusion_matrix_project_5.png` | Confusion matrix visualization for Project 5 test set evaluation |
-| `outputs_ch8_project_6/fine_tuning/` | `best.keras` | Best model checkpoint saved during Project 6 fine-tuning |
+| `outputs_ch8_projects_5_6/outputs_ch8_project_6/fine_tuning/` | `best.keras` | Best model checkpoint saved during Project 6 fine-tuning |
 | | `metrics.json` | Training history, test accuracy, and artifact paths for Project 6 |
 | | `classification_report_project_6.txt` | Text classification report with precision, recall, F1-score, and support per class |
 | | `classification_report_project_6.csv` | CSV version of the Project 6 classification report for table use |

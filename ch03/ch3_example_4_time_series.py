@@ -1,4 +1,4 @@
-# EX3_4_timeseries.py
+# ch3_example_4_time_series.py
 # ============================================================
 # Example 3.4
 # Time Series Forecasting of Publication Counts
@@ -37,7 +37,7 @@ from statsmodels.tsa.holtwinters import ExponentialSmoothing
 
 DATA = "pub_trends.csv"
 
-OUT = Path("outputs_ex3_4")
+OUT = Path("outputs_ch3_example_4")
 OUT.mkdir(parents=True, exist_ok=True)
 
 

@@ -39,8 +39,9 @@ The repository is intended both for instructional use and for reproducible compu
 | `ch8_project_1_energy_technology_trend_forecasting.py` | Panel GRU forecasting with rolling-origin backtesting on per-capita energy use data |
 | `ch8_projects_2_3_4_NLP.py` | Text-based foresight analytics: clustering, LSTM trend forecasting, NER, and sentiment analysis using the CORD-19 dataset |
 | `ch8_projects_5_6_transfer_learning.py` | Transfer learning case studies (feature extraction and fine-tuning) using MobileNetV2 on the Bean leaf disease dataset |
-| `cord_19_dataset.zip` → `cord19_df.csv` | CORD-19 scientific literature snapshot used by the NLP projects |
-| `bean_dataset.zip` → `angular_leaf_spot/`, `bean_rust/`, `healthy/` | Bean leaf disease image dataset used by the transfer learning projects |
+| `per-capita-energy-use.csv` | Energy usage data used by the energy technology trend forecasting project (Project 1) |
+| `cord_19_dataset.zip` → `cord19_df.csv` | CORD-19 scientific literature snapshot used by the NLP projects (Projects 2, 3, and 4) |
+| `bean_dataset.zip` → `angular_leaf_spot/`, `bean_rust/`, `healthy/` | Bean leaf disease image dataset used by the transfer learning projects (Projects 5 and 6) |
 | `chapter_8_running_codes.ipynb` | Jupyter notebook to run all three scripts in the recommended order with environment verification |
 
 ## Generated Outputs
@@ -215,7 +216,7 @@ The datasets used in this chapter are openly licensed and loaded either automati
 | Dataset | Source | License | Loading Method |
 |---------|--------|---------|----------------|
 | CORD-19 Scientific Literature | [Semantic Scholar / Allen Institute for AI](https://allenai.org/data/cord-19) | CC BY 4.0 | Local ZIP (`cord_19_dataset.zip`) |
-| Per-Capita Energy Use | [Our World in Data](https://ourworldindata.org/grapher/per-capita-energy-use) | CC BY 4.0 | Downloaded automatically at runtime |
+| Per-Capita Energy Use | [Our World in Data](https://ourworldindata.org/grapher/per-capita-energy-use) | CC BY 4.0 | Local ZIP (`per-capita-energy-use.csv`) |
 | Bean Leaf Disease (ibean) | Makerere AI Lab | CC BY 4.0 | Local ZIP (`bean_dataset.zip`) |
 
 ### Local ZIP Files

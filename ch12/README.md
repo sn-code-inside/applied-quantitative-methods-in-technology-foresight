@@ -1,165 +1,132 @@
-# Data-Led Technology Roadmapping
+# Chapter 12: Data-Led Technology Roadmapping
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+## Overview
 
-Code implementations and datasets for **Chapter 12: Data-Led Technology Roadmapping** from the book *Applied Quantitative Methods in Technology Foresight* (Springer).
+**Authors:** Arif Soyler, Prof. Dr. Serhat Burmaoglu, and Asst. Prof. Dr. Esra Dundar Aravacik
 
-## 📖 Overview
+**Affiliations:**
+- Izmir Bakircay University, Institute of Graduate Studies, Department of Health Management (PhD Candidate) — *Arif Soyler*
+- Izmir Katip Celebi University, Faculty of Economics and Administrative Sciences, Department of Department of Data Science and Analytics *Serhat Burmaoglu*
+- Izmir Katip Celebi University, Faculty of Economics and Administrative Sciences, Department of Health Management — *Esra Dundar Aravacik*
 
-This repository provides complete, production-ready Python implementations for data-led technology roadmapping methodologies including:
+**Email addresses:** arifsoyler@gmail.com, serhatburmaoglu@gmail.com, and esra.dundar@hotmail.com
 
-- **Bibliometric analysis** of scientific publications
-- **Patent analytics** for technology assessment
-- **Topic modeling** using Latent Dirichlet Allocation (LDA)
-- **Network analysis** for technology relationship mapping
-- **Time series forecasting** with S-curve fitting and ARIMA
-- **Technology maturity assessment** frameworks
+**ORCIDs:** [https://orcid.org/0000-0001-7699-6316](https://orcid.org/0000-0001-7699-6316), [https://orcid.org/0000-0002-5537-6887](https://orcid.org/0000-0002-5537-6887), and [https://orcid.org/0000-0002-6504-6283](https://orcid.org/0000-0002-6504-6283)
 
-## 📁 Repository Structure
-```
-data-led-technology-roadmapping/
-├── README.md                 # This file
-├── LICENSE                   # MIT License
-├── requirements.txt          # Python dependencies
-├── code/
-│   ├── data_loading.py       # Data import and preprocessing
-│   ├── time_series.py        # Trend analysis and forecasting
-│   ├── topic_modeling.py     # LDA topic modeling
-│   ├── network_analysis.py   # Co-occurrence networks
-│   └── roadmap_generation.py # Integrated roadmap creation
-└── data/
-    ├── synthetic_battery_patents.csv      # Example 1: Battery technology
-    ├── synthetic_ai_healthcare_pubs.csv   # Example 2: AI in healthcare
-    └── synthetic_quantum_combined.csv     # Example 3: Quantum computing
-```
+---
 
-## 🚀 Quick Start
+This folder contains the Python modules, synthetic datasets, and reproducible analytical workflows developed for **Chapter 12: Data-Led Technology Roadmapping** in the book *Applied Quantitative Methods in Technology Foresight: AI-Enhanced Approaches* (Springer).
 
-### 1. Clone the Repository
+The chapter presents a comprehensive framework for data-led technology roadmapping, integrating bibliometric analysis, patent analytics, text mining, and network analysis methods. Complete Python implementations are provided for trend analysis, topic modeling using Latent Dirichlet Allocation, co-occurrence network construction, and technology maturity assessment. The healthcare smart contracts case study, analyzing 4,156 publications and 10,204 patents, demonstrates a sophisticated eight-stage analytical pipeline combining traditional and transformer-based methods.
+
+The scripts included in this repository support the examples and case study presented throughout the chapter. They demonstrate reproducible implementations of:
+
+- data loading and preprocessing for publication and patent databases,
+- time series analysis and ARIMA-based technology trend forecasting,
+- topic modeling using Latent Dirichlet Allocation (LDA),
+- keyword co-occurrence network analysis with centrality measures and community detection,
+- and technology roadmap generation and visualization.
+
+The repository is intended both for instructional use and for reproducible computational experimentation in technology foresight and roadmapping contexts.
+
+## Repository Contents
+
+| File / Folder | Description |
+|---|---|
+| `code/data_loading.py` | Data loading and preprocessing module for publication and patent datasets |
+| `code/time_series.py` | Time series analysis and forecasting module including ARIMA modeling and S-curve fitting |
+| `code/topic_modeling.py` | Topic modeling and text analysis module using Latent Dirichlet Allocation (LDA) |
+| `code/network_analysis.py` | Network analysis module for keyword co-occurrence, centrality measures, and community detection |
+| `code/roadmap_generation.py` | Roadmap generation and visualization module |
+| `data/synthetic_quantum_combined.csv` | Synthetic combined dataset (publications and patents) for quantum computing technology |
+| `data/synthetic_battery_patents.csv` | Synthetic patent dataset for battery technology used in Example 1 |
+| `data/synthetic_ai_healthcare_pubs.csv` | Synthetic publications dataset for AI in healthcare used in Example 2 |
+| `DATA_REPLICATION_GUIDE.md` | Step-by-step guide for replicating analyses with real-world data from Lens.org and PubMed |
+| `requirements.txt` | Python package dependencies for the project |
+
+## Requirements
+
+The scripts were developed and tested using:
+
+- Python 3.8+
+- numpy
+- pandas
+- matplotlib
+- scipy
+- statsmodels
+- scikit-learn
+- gensim
+- networkx
+- nltk
+
+## Installation
+
+Clone the repository:
+
 ```bash
-git clone https://github.com/arfsylr/data-led-technology-roadmapping.git
-cd data-led-technology-roadmapping
+git clone https://github.com/sn-code-inside/applied-quantitative-methods-in-technology-foresight.git
 ```
 
-### 2. Create Virtual Environment (Recommended)
+Navigate to the chapter folder:
+
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+cd applied-quantitative-methods-in-technology-foresight/ch12
 ```
 
-### 3. Install Dependencies
+Install required libraries:
+
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Download NLTK Data
-```python
-import nltk
-nltk.download('stopwords')
-nltk.download('wordnet')
+## Usage
+
+The code is organized as modular Python scripts designed to be executed sequentially as an analytical pipeline. Recommended execution order:
+
+1. `code/data_loading.py` — Load and preprocess raw publication/patent data
+2. `code/time_series.py` — Perform temporal trend analysis and forecasting
+3. `code/topic_modeling.py` — Extract latent topics from document corpora
+4. `code/network_analysis.py` — Construct and analyze co-occurrence networks
+5. `code/roadmap_generation.py` — Generate integrated technology roadmap visualizations
+
+Example execution:
+
+```bash
+python code/data_loading.py
+python code/time_series.py
+python code/topic_modeling.py
+python code/network_analysis.py
+python code/roadmap_generation.py
 ```
 
-### 5. Run Example Analysis
-```python
-from code.data_loading import load_patent_data
-from code.time_series import analyze_temporal_trends
-from code.topic_modeling import preprocess_corpus, perform_topic_modeling
-from code.network_analysis import create_cooccurrence_network
-from code.roadmap_generation import assess_technology_maturity
+## Data Sources
 
-# Load data
-df = load_patent_data('data/synthetic_battery_patents.csv')
+The datasets included in this repository are synthetic educational datasets designed to reproduce the analytical workflows presented in the chapter:
 
-# Analyze trends
-trends, growth = analyze_temporal_trends(df, date_column='Filing_Date')
+- **Battery patents dataset** (Example 1): Synthetic patent records for battery technology trend analysis
+- **AI healthcare publications dataset** (Example 2): Synthetic publication records for topic evolution analysis
+- **Quantum computing combined dataset**: Synthetic combined publication and patent data for integrated roadmapping
 
-# Topic modeling
-docs = preprocess_corpus(df, text_column='Abstract', title_column='Title')
-topics = perform_topic_modeling(docs, n_topics=5)
+The case study references data from [Lens.org](https://www.lens.org/), which provides free access to patent and scholarly publications. The search query used was: `((smart contract* OR blockchain*) AND (health* OR medical* OR clinical*))`. Data extraction was performed on August 15, 2024.
 
-# Network analysis
-G = create_cooccurrence_network(df, keyword_column='Keywords', separator=';')
+To ensure reproducibility and avoid licensing restrictions, all distributed datasets are simplified synthetic representations calibrated to reflect plausible technological dynamics rather than authoritative real-world counts. See `DATA_REPLICATION_GUIDE.md` for detailed instructions on replicating analyses with real-world data.
 
-# Maturity assessment
-maturity = assess_technology_maturity(df, date_column='Filing_Date')
-```
+## Notes
 
-## 📊 Datasets
+- The scripts emphasize pedagogical clarity and reproducibility over computational optimization.
+- The examples are intentionally simplified to support instructional use and self-study at the graduate level.
+- The modular code architecture allows readers to adapt individual components (e.g., topic modeling, network analysis) for their own technology foresight projects.
+- The chapter combines quantitative rigor with critical reflection on the limitations of data-driven roadmapping, emphasizing the importance of complementary qualitative and participatory foresight methods.
+- The case study reveals a reversed innovation pattern where patents precede publications by 8.12 years on average, challenging conventional linear models of knowledge transfer.
 
-All datasets are **synthetic** (CC0 license) designed to demonstrate analytical methods while preserving realistic patterns.
+**Part of:** *Applied Quantitative Methods in Technology Foresight: AI-Enhanced Approaches* — Springer
 
-| Dataset | Records | Description | Chapter Section |
-|---------|---------|-------------|-----------------|
-| `synthetic_battery_patents.csv` | 35 | Battery technology patents (2015-2024) | Example 1 (Section 3.1) |
-| `synthetic_ai_healthcare_pubs.csv` | 40 | AI healthcare publications (2016-2024) | Example 2 (Section 3.2) |
-| `synthetic_quantum_combined.csv` | 42 | Quantum computing (patents + publications) | Example 3 (Section 3.3) |
+**Repository:** https://github.com/sn-code-inside/applied-quantitative-methods-in-technology-foresight/
 
-### Using Your Own Data
 
-To use real data from bibliometric databases:
+For questions about Chapter 12:
 
-1. **Scopus/Web of Science**: Export as CSV with Title, Abstract, Year, Authors, Keywords
-2. **Lens.org**: Export with Title, Abstract, Filing_Date, IPC_Class, Assignee
-3. **Ensure proper licensing** before redistribution
-
-## 📚 Module Documentation
-
-### data_loading.py
-- `load_publication_data()`: Load and preprocess publication CSV/Excel files
-- `load_patent_data()`: Load and preprocess patent data with IPC parsing
-- `combine_publication_patent_data()`: Merge datasets for integrated analysis
-
-### time_series.py
-- `analyze_temporal_trends()`: Calculate growth rates and visualize trends
-- `fit_scurve()`: Fit logistic S-curve for maturity assessment
-- `forecast_technology_trend()`: ARIMA-based forecasting with confidence intervals
-
-### topic_modeling.py
-- `preprocess_text()`: Text cleaning, stopword removal, lemmatization
-- `perform_topic_modeling()`: LDA topic extraction with visualization
-- `analyze_topic_evolution()`: Track topic proportions over time
-
-### network_analysis.py
-- `create_cooccurrence_network()`: Build keyword co-occurrence graph
-- `analyze_network_centrality()`: Calculate degree, betweenness, eigenvector centrality
-- `detect_communities()`: Identify technology clusters using modularity optimization
-
-### roadmap_generation.py
-- `assess_technology_maturity()`: Classify as Emerging/Growth/Mature/Declining
-- `create_technology_roadmap()`: Generate integrated multi-panel visualization
-- `generate_roadmap_report()`: Create text-based strategic report
-
-## 📖 Citation
-
-If you use this code in your research, please cite:
-```bibtex
-@incollection{soyler2026roadmapping,
-  title={Data-Led Technology Roadmapping},
-  author={Söyler, Arif and Aravacik, Esra Dundar},
-  booktitle={Applied Quantitative Methods in Technology Foresight},
-  editor={Burmaoglu, Serhat},
-  publisher={Springer},
-  year={2026},
-  chapter={12}
-}
-```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Arif Söyler** - Izmir Bakircay University, Department of Health Management (PhD Candidate)
-- **Asst. Prof. Dr. Esra Dundar Aravacik** - Izmir Katip Celebi University, Faculty of Economics and Administrative Sciences
-
-## 🙏 Acknowledgments
-
-- Prof. Dr. Serhat Burmaoglu (Editor)
-- Springer Publishing
-- All contributors to the open-source libraries used in this project
-
----
-
-**Questions or Issues?** Please open an issue on this repository.
+Arif Soyler
+Izmir Bakırcay Celebi University
+Department of Health Management
+Email: arifsoyler@gmail.com

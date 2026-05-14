@@ -7,7 +7,7 @@
 >
 > **Affiliations:** *RDT INGENIEROS, **Izmir Katip Celebi University, Faculty of Engineering and Architecture, Department of Engineering Sciences
 > 
-> **Email addresses:** eng.halimeozgekabak@gmail.com, femin.yalcin@ikcu.edu.tr and silaovgu.korkut@ikcu.edu.tr
+> **Email addresses:** eng.halimeozgekabak@gmail.com, silaovgu.korkut@ikcu.edu.tr, and femin.yalcin@ikcu.edu.tr 
 >
 > **ORCIDs:** https://orcid.org/0009-0009-7343-7610, https://orcid.org/0000-0003-4784-2013 and https://orcid.org/0000-0003-0602-9392
 
@@ -38,7 +38,7 @@ The repository is intended both for instructional use and for reproducible compu
 |---------------|-------------|
 | `ch8_project_1_energy_technology_trend_forecasting.py` | Panel GRU forecasting with rolling-origin backtesting on per-capita energy use data |
 | `ch8_projects_2_3_4_NLP.py` | Text-based foresight analytics: clustering, LSTM trend forecasting, NER, and sentiment analysis using the CORD-19 dataset |
-| `ch8_project_5_6_transfer_learning_projects.py` | Transfer learning case studies (feature extraction and fine-tuning) using MobileNetV2 on the Bean leaf disease dataset |
+| `ch8_projects_5_6_transfer_learning_projects.py` | Transfer learning case studies (feature extraction and fine-tuning) using MobileNetV2 on the Bean leaf disease dataset |
 | `cord_19_dataset.zip` → `cord19_df.csv` | CORD-19 scientific literature snapshot used by the NLP projects |
 | `bean_dataset.zip` → `angular_leaf_spot/`, `bean_rust/`, `healthy/` | Bean leaf disease image dataset used by the transfer learning projects |
 | `chapter_8_running_codes.ipynb` | Jupyter notebook to run all three scripts in the recommended order with environment verification |
@@ -58,19 +58,19 @@ Each script automatically saves all outputs to dedicated folders. No manual path
 | `outputs_ch8_project_3/` | `lstm_loss.png` | LSTM training and validation loss curve over epochs |
 | `outputs_ch8_project_4/` | `entity_network.csv` | Entity co-occurrence network with source, target, and edge weight columns |
 | `outputs_ch8_case_study/` | `sentiment_by_year.csv` | Yearly sentiment distribution of policy-related scientific abstracts |
-| `outputs_beans_transfer_learning/` | `run_metadata.json` | Experiment configuration, library versions, and determinism environment variables |
-| `outputs_ch8_project_5/feature_extraction/` | `best.keras` | Best model checkpoint saved during Project 5 feature extraction training |
-| | `metrics.json` | Training history, test accuracy, and artifact paths for Project 5 |
-| | `classification_report_project_5.txt` | Text classification report with precision, recall, F1-score, and support per class |
-| | `classification_report_project_5.csv` | CSV version of the Project 5 classification report for table use |
-| | `confusion_matrix_project_5.npy` | Raw confusion matrix values stored as a NumPy array |
-| | `confusion_matrix_project_5.png` | Confusion matrix visualization for Project 5 test set evaluation |
+| `outputs_ch8_projects_5_6/` | `run_metadata.json` | Experiment configuration, library versions, and determinism environment variables |
+| | `outputs_ch8_project_5/feature_extraction/` | `best.keras` | Best model checkpoint saved during Project 5 feature extraction training |
+| | | `metrics.json` | Training history, test accuracy, and artifact paths for Project 5 |
+| | | `classification_report_project_5.txt` | Text classification report with precision, recall, F1-score, and support per class |
+| | | `classification_report_project_5.csv` | CSV version of the Project 5 classification report for table use |
+| | | `confusion_matrix_project_5.npy` | Raw confusion matrix values stored as a NumPy array |
+| | | `confusion_matrix_project_5.png` | Confusion matrix visualization for Project 5 test set evaluation |
 | `outputs_ch8_project_6/fine_tuning/` | `best.keras` | Best model checkpoint saved during Project 6 fine-tuning |
-| | `metrics.json` | Training history, test accuracy, and artifact paths for Project 6 |
-| | `classification_report_project_6.txt` | Text classification report with precision, recall, F1-score, and support per class |
-| | `classification_report_project_6.csv` | CSV version of the Project 6 classification report for table use |
-| | `confusion_matrix_project_6.npy` | Raw confusion matrix values stored as a NumPy array |
-| | `confusion_matrix_project_6.png` | Confusion matrix visualization for Project 6 test set evaluation |
+| | | `metrics.json` | Training history, test accuracy, and artifact paths for Project 6 |
+| | | `classification_report_project_6.txt` | Text classification report with precision, recall, F1-score, and support per class |
+| | | `classification_report_project_6.csv` | CSV version of the Project 6 classification report for table use |
+| | | `confusion_matrix_project_6.npy` | Raw confusion matrix values stored as a NumPy array |
+| | | `confusion_matrix_project_6.png` | Confusion matrix visualization for Project 6 test set evaluation |
 
 ---
 
@@ -202,7 +202,7 @@ python ch8_project_5_6_transfer_learning_projects.py
 ```python
 %run ch8_project_1_energy_technology_trend_forecasting.py
 %run ch8_projects_2_3_4_NLP.py
-%run ch8_project_5_6_transfer_learning_projects.py
+%run ch8_projects_5_6_transfer_learning_projects.py
 ```
 
 Each script automatically generates tables, figures, forecasts, statistical summaries, and visualization outputs inside dedicated output folders.
@@ -228,7 +228,7 @@ The two ZIP-based datasets exceed GitHub's file size limit and are hosted extern
   Used by `ch8_projects_2_3_4_NLP.py` for topic modeling, trend detection, NER, and sentiment analysis.
 
 - **`Bean_Dataset.zip`** → contains `angular_leaf_spot/`, `bean_rust/`, `healthy/`
-  Used by `ch8_project_5_6_transfer_learning_projects.py` for transfer learning experiments. The script handles extraction and train/validation/test splitting automatically.
+  Used by `ch8_projects_5_6_transfer_learning_projects.py` for transfer learning experiments. The script handles extraction and train/validation/test splitting automatically.
 
 ### Runtime Download
 

@@ -1,4 +1,4 @@
-a# ch3_CRISPR_case_study.py
+# ch3_CRISPR_case_study.py
 # ============================================================
 # Case Study
 # Retrospective Statistical Analysis of CRISPR Gene Editing

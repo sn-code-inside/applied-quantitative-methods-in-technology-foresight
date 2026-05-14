@@ -9,7 +9,7 @@
 > 
 > **Email addresses:** eng.halimeozgekabak@gmail.com, silaovgu.korkut@ikcu.edu.tr, and femin.yalcin@ikcu.edu.tr 
 >
-> **ORCIDs:** https://orcid.org/0009-0009-7343-7610, https://orcid.org/0000-0003-4784-2013 and https://orcid.org/0000-0003-0602-9392
+> **ORCIDs:** https://orcid.org/0009-0009-7343-7610, https://orcid.org/0000-0003-4784-2013, and https://orcid.org/0000-0003-0602-9392
 
 This folder contains the Python scripts, synthetic datasets, and reproducible analytical workflows developed for **Chapter 8: Deep Learning Applications in Foresight** in the book *Applied Quantitative Methods in Technology Foresight: AI-Enhanced Approaches* (Springer).
 

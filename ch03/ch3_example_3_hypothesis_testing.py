@@ -1,4 +1,4 @@
-# EX3_3_hypothesis.py
+# ch3_example_3_hypothesis_testing.py
 # ============================================================
 # Example 3.3
 # Hypothesis Testing Across Domains
@@ -31,7 +31,7 @@ from scipy import stats
 
 DATA = "patent_trends.csv"
 
-OUT = Path("outputs_ex3_3")
+OUT = Path("outputs_ch3_example_3")
 OUT.mkdir(parents=True, exist_ok=True)
 
 

@@ -38,7 +38,7 @@ The repository is intended both for instructional use and for reproducible compu
 |---------------|-------------|
 | `ch8_project_1_energy_technology_trend_forecasting.py` | Panel GRU forecasting with rolling-origin backtesting on per-capita energy use data |
 | `ch8_projects_2_3_4_NLP.py` | Text-based foresight analytics: clustering, LSTM trend forecasting, NER, and sentiment analysis using the CORD-19 dataset |
-| `ch8_projects_5_6_transfer_learning_projects.py` | Transfer learning case studies (feature extraction and fine-tuning) using MobileNetV2 on the Bean leaf disease dataset |
+| `ch8_projects_5_6_transfer_learning.py` | Transfer learning case studies (feature extraction and fine-tuning) using MobileNetV2 on the Bean leaf disease dataset |
 | `cord_19_dataset.zip` → `cord19_df.csv` | CORD-19 scientific literature snapshot used by the NLP projects |
 | `bean_dataset.zip` → `angular_leaf_spot/`, `bean_rust/`, `healthy/` | Bean leaf disease image dataset used by the transfer learning projects |
 | `chapter_8_running_codes.ipynb` | Jupyter notebook to run all three scripts in the recommended order with environment verification |
@@ -181,12 +181,12 @@ In the notebook: *Kernel → Change Kernel → Foresight Env*
 
 1. `ch8_project_1_energy_technology_trend_forecasting.py`
 2. `ch8_projects_2_3_4_NLP.py`
-3. `ch8_project_5_6_transfer_learning_projects.py`
+3. `ch8_projects_5_6_transfer_learning.py`
 
 > **Dependency note:**
 > - `ch8_project_1_energy_technology_trend_forecasting.py` — fully independent
 > - `ch8_projects_2_3_4_NLP.py` — fully independent; the Case Study (Sentiment-Driven Policy Insight) is embedded in this script and depends on the CORD-19 data loaded at the beginning of the same script
-> - `ch8_project_5_6_transfer_learning_projects.py` — fully independent
+> - `ch8_projects_5_6_transfer_learning.py` — fully independent
 > - `chapter_8_running_codes.ipynb` — runs all three scripts in order; requires all data files to be present
 
 **Example execution via terminal:**
@@ -194,7 +194,7 @@ In the notebook: *Kernel → Change Kernel → Foresight Env*
 ```bash
 python ch8_project_1_energy_technology_trend_forecasting.py
 python ch8_projects_2_3_4_NLP.py
-python ch8_project_5_6_transfer_learning_projects.py
+python ch8_projects_5_6_transfer_learning.py
 ```
 
 **Example execution via Jupyter (recommended):**
@@ -202,7 +202,7 @@ python ch8_project_5_6_transfer_learning_projects.py
 ```python
 %run ch8_project_1_energy_technology_trend_forecasting.py
 %run ch8_projects_2_3_4_NLP.py
-%run ch8_projects_5_6_transfer_learning_projects.py
+%run ch8_projects_5_6_transfer_learnings.py
 ```
 
 Each script automatically generates tables, figures, forecasts, statistical summaries, and visualization outputs inside dedicated output folders.
@@ -228,7 +228,7 @@ The two ZIP-based datasets exceed GitHub's file size limit and are hosted extern
   Used by `ch8_projects_2_3_4_NLP.py` for topic modeling, trend detection, NER, and sentiment analysis.
 
 - **`Bean_Dataset.zip`** → contains `angular_leaf_spot/`, `bean_rust/`, `healthy/`
-  Used by `ch8_projects_5_6_transfer_learning_projects.py` for transfer learning experiments. The script handles extraction and train/validation/test splitting automatically.
+  Used by `ch8_projects_5_6_transfer_learning.py` for transfer learning experiments. The script handles extraction and train/validation/test splitting automatically.
 
 ### Runtime Download
 

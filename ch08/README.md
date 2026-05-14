@@ -22,15 +22,15 @@ The materials in this chapter demonstrate how deep learning and modern artificia
 - lifecycle (S-curve) modeling,
 - and retrospective technology assessment.
 
--Emerging technology detection
--Trend forecasting with deep learning
--Transformer-based text analytics
--Transfer learning applications
--Sentiment-driven foresight analytics
--Named Entity Recognition (NER)
--Strategic mapping using network analysis
--Representation learning with Sentence-BERT
--Time-series forecasting with LSTM and GRU architectures
+- Emerging technology detection
+- Trend forecasting with deep learning
+- Transformer-based text analytics
+- Transfer learning applications
+- Sentiment-driven foresight analytics
+- Named Entity Recognition (NER)
+- Strategic mapping using network analysis
+- Representation learning with Sentence-BERT
+- Time-series forecasting with LSTM and GRU architectures
 
 The examples are designed for graduate students, researchers, analysts, and practitioners working in technology foresight, innovation analytics, computational social science, and strategic planning.
 

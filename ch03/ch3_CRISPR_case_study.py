@@ -1,4 +1,4 @@
-# CRISPR_CASE_STUDY.py
+# ch3_CRISPR_case_study.py
 # ============================================================
 # Case Study
 # Retrospective Statistical Analysis of CRISPR Gene Editing
@@ -40,7 +40,7 @@ from statsmodels.tsa.arima.model import ARIMA
 # 0) Setup and helper functions
 # ============================================================
 
-OUT = Path("outputs_crispr_case_study")
+OUT = Path("outputs_ch3_CRISPR_case_study")
 OUT.mkdir(parents=True, exist_ok=True)
 
 

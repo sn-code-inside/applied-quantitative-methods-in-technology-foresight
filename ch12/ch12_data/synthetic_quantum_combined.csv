@@ -1,0 +1,43 @@
+ID,Title,Abstract,Year,Source,Keywords
+QC001,Superconducting qubit coherence improvement,Extended coherence times in transmon qubits through improved fabrication and shielding techniques,2015,Patent,superconducting;qubit;coherence;transmon;fabrication
+QC002,Quantum error correction codes review,Comprehensive analysis of stabilizer codes and fault-tolerant quantum computation thresholds,2015,Publication,error-correction;stabilizer;fault-tolerant;threshold;codes
+QC003,Quantum annealing for optimization problems,D-Wave quantum annealer application to combinatorial optimization in logistics,2015,Patent,quantum-annealing;optimization;D-Wave;combinatorial;logistics
+QC004,Variational quantum eigensolver algorithm,Hybrid quantum-classical algorithm for molecular ground state energy estimation,2016,Publication,VQE;variational;eigensolver;molecular;hybrid
+QC005,Ion trap quantum processor architecture,Scalable trapped-ion system with integrated optical addressing for quantum computation,2016,Patent,ion-trap;trapped-ion;scalable;optical;processor
+QC006,Quantum machine learning foundations,Theoretical framework for quantum-enhanced supervised learning algorithms,2016,Publication,quantum-ML;machine-learning;supervised;algorithm;theory
+QC007,Cryogenic control electronics for qubits,Low-power CMOS circuits operating at millikelvin temperatures for qubit control,2016,Patent,cryogenic;CMOS;control;millikelvin;electronics
+QC008,Quantum supremacy experimental demonstration,Random circuit sampling achieving computational advantage over classical supercomputers,2017,Publication,quantum-supremacy;random-circuit;sampling;advantage;demonstration
+QC009,Topological qubit design,Majorana-based topological qubit architecture for fault-tolerant quantum computing,2017,Patent,topological;Majorana;fault-tolerant;qubit;architecture
+QC010,Quantum approximate optimization algorithm,QAOA performance analysis for MAX-CUT problems on near-term quantum devices,2017,Publication,QAOA;optimization;MAX-CUT;near-term;NISQ
+QC011,Quantum network entanglement distribution,Fiber-optic system for distributing entangled photon pairs across metropolitan distances,2017,Patent,quantum-network;entanglement;photon;fiber-optic;distribution
+QC012,Noise characterization in NISQ devices,Benchmarking protocols for understanding error sources in noisy quantum processors,2018,Publication,NISQ;noise;benchmarking;error;characterization
+QC013,Quantum random number generator,Certified randomness generation using quantum vacuum fluctuations,2018,Patent,QRNG;random-number;vacuum;certified;randomness
+QC014,Quantum chemistry simulation advances,Efficient encoding schemes for simulating fermionic systems on quantum computers,2018,Publication,quantum-chemistry;simulation;fermionic;encoding;molecular
+QC015,Photonic quantum computing platform,Room-temperature photonic chip for linear optical quantum computation,2018,Patent,photonic;optical;room-temperature;chip;linear
+QC016,Quantum error mitigation techniques,Zero-noise extrapolation and probabilistic error cancellation for NISQ algorithms,2018,Publication,error-mitigation;zero-noise;extrapolation;NISQ;probabilistic
+QC017,Modular quantum computer architecture,Interconnected quantum processor modules via microwave quantum links,2019,Patent,modular;architecture;interconnect;microwave;processor
+QC018,Quantum natural language processing,Compositional distributional semantics implemented on quantum circuits,2019,Publication,QNLP;natural-language;compositional;semantics;circuits
+QC019,Quantum memory for communication,Rare-earth doped crystal quantum memory with hour-long storage times,2019,Patent,quantum-memory;rare-earth;crystal;storage;communication
+QC020,Variational quantum classifier performance,Empirical study of quantum kernel methods for supervised classification tasks,2019,Publication,variational;classifier;kernel;supervised;classification
+QC021,Silicon spin qubit processor,CMOS-compatible silicon quantum dot processor with high-fidelity gates,2019,Patent,silicon;spin-qubit;CMOS;quantum-dot;fidelity
+QC022,Quantum advantage in sampling problems,Theoretical analysis of quantum computational advantage boundaries,2020,Publication,quantum-advantage;sampling;computational;theory;boundaries
+QC023,Cloud quantum computing platform,Software stack for remote access to superconducting quantum processors,2020,Patent,cloud;quantum-computing;software;remote;superconducting
+QC024,Quantum federated learning protocol,Privacy-preserving distributed quantum machine learning across multiple parties,2020,Publication,federated-learning;quantum-ML;privacy;distributed;protocol
+QC025,Quantum sensor for magnetic imaging,Nitrogen-vacancy diamond sensor array for nanoscale magnetic field mapping,2020,Patent,quantum-sensor;NV-diamond;magnetic;imaging;nanoscale
+QC026,Barren plateau phenomenon analysis,Trainability challenges in parameterized quantum circuits and mitigation strategies,2020,Publication,barren-plateau;trainability;PQC;variational;optimization
+QC027,Fault-tolerant surface code implementation,Logical qubit demonstration using distance-3 surface code on superconducting device,2021,Patent,surface-code;fault-tolerant;logical-qubit;superconducting;distance
+QC028,Quantum reinforcement learning agents,Quantum policy gradient methods for enhanced exploration in RL environments,2021,Publication,quantum-RL;reinforcement;policy-gradient;exploration;agents
+QC029,Quantum internet routing protocol,Entanglement-based routing algorithms for large-scale quantum networks,2021,Patent,quantum-internet;routing;entanglement;network;protocol
+QC030,Classical simulation of quantum circuits,Tensor network methods pushing boundaries of classical quantum simulation,2021,Publication,classical-simulation;tensor-network;quantum-circuits;boundaries;methods
+QC031,Room-temperature quantum computing approach,Novel material platforms targeting ambient-temperature qubit operation,2021,Patent,room-temperature;ambient;material;qubit;platform
+QC032,Quantum generative adversarial networks,QGAN architectures for learning quantum and classical data distributions,2022,Publication,QGAN;generative;adversarial;distribution;quantum-ML
+QC033,Quantum compiler optimization,Automated circuit compilation minimizing gate count and depth for target hardware,2022,Patent,compiler;optimization;circuit;gate-count;depth
+QC034,Utility-scale quantum computing demonstration,Quantum processor outperforming classical methods for physics simulation task,2022,Publication,utility;quantum-computing;physics;simulation;demonstration
+QC035,Quantum key distribution satellite system,Space-based QKD infrastructure for global secure communication network,2022,Patent,QKD;satellite;space;secure;communication
+QC036,Quantum transformer neural networks,Quantum attention mechanisms for enhanced sequence modeling capabilities,2023,Publication,quantum-transformer;attention;neural-network;sequence;modeling
+QC037,Error-corrected logical qubit operations,Below-threshold logical error rates achieved through real-time decoding,2023,Patent,error-correction;logical;threshold;decoding;real-time
+QC038,Quantum foundation models,Large-scale quantum circuit learning for multiple downstream tasks,2023,Publication,foundation-model;quantum-circuit;learning;multi-task;scale
+QC039,Integrated quantum-classical HPC system,Hybrid architecture combining quantum processors with exascale supercomputers,2023,Patent,hybrid;HPC;integrated;exascale;architecture
+QC040,Quantum algorithm for differential equations,Exponential speedup for solving partial differential equations on quantum computers,2024,Publication,algorithm;differential-equations;speedup;PDE;quantum
+QC041,Commercially viable quantum computer,Production-ready quantum system targeting enterprise computational workloads,2024,Patent,commercial;enterprise;production;workload;system
+QC042,Quantum advantage in machine learning,Provable quantum speedup for specific learning problems with practical relevance,2024,Publication,quantum-advantage;machine-learning;speedup;provable;practical

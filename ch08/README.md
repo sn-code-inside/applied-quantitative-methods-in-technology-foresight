@@ -68,6 +68,11 @@ conda activate chapter8
 ### Install Required Packages
 
 ```bash
+Siskom burada Özge'nin partı için gerekenler:
+pip install tensorflow
+pip install tensorflow-datasets
+
+
 pip install -U pandas numpy scikit-learn matplotlib tqdm requests networkx
 pip install -U tensorflow keras tf-keras
 pip install -U torch

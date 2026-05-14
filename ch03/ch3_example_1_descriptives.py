@@ -1,4 +1,4 @@
-a# ch3_example_1_descriptives.py
+# ch3_example_1_descriptives.py
 # ============================================================
 # Example 3.1
 # Descriptive Statistics of Technology Indicators

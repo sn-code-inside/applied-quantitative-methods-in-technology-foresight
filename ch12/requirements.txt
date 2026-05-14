@@ -1,0 +1,22 @@
+# Core data manipulation
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Natural Language Processing
+scikit-learn>=1.0.0
+nltk>=3.7
+
+# Network Analysis
+networkx>=2.8
+
+# Time Series
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# Jupyter Support
+jupyter>=1.0.0
+notebook>=6.5.0

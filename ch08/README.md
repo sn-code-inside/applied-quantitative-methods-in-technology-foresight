@@ -9,7 +9,7 @@
 > 
 > **Email addresses:** eng.halimeozgekabak@gmail.com, femin.yalcin@ikcu.edu.tr and silaovgu.korkut@ikcu.edu.tr
 >
-> **ORCIDs:** https://orcid.org/ 0009-0009-7343-7610, https://orcid.org/0000-0003-4784-2013 and https://orcid.org/0000-0003-0602-9392
+> **ORCIDs:** https://orcid.org/0009-0009-7343-7610, https://orcid.org/0000-0003-4784-2013 and https://orcid.org/0000-0003-0602-9392
 
 This folder contains the Python scripts, synthetic datasets, and reproducible analytical workflows developed for **Chapter 8: Deep Learning Applications in Foresight** in the book *Applied Quantitative Methods in Technology Foresight: AI-Enhanced Approaches* (Springer).
 
@@ -33,21 +33,6 @@ The repository is intended both for instructional use and for reproducible compu
 
 ## Repository Contents
 
-Chapter8/
-│
-├── ch8_project_1_energy_technology_trend_forecasting.py
-├── ch8_projects_2_3_4_NLP.py
-├── transfer_learning_case_studies.py
-│
-├── cord_19_dataset.zip
-│   └── cord19_df.csv
-│
-├── Bean_Dataset.zip
-│   ├── angular_leaf_spot/
-│   ├── bean_rust/
-│   └── healthy/
-│
-└── README.md
 *List and describe the files/scripts in this folder. Example:*
 | File / Folder | Description |
 |---------------|-------------|
@@ -57,17 +42,35 @@ Chapter8/
 | `cord_19_dataset.zip` → `cord19_df.csv` | CORD-19 scientific literature snapshot used by the NLP projects |
 | `bean_dataset.zip` → `angular_leaf_spot/`, `bean_rust/`, `healthy/` | Bean leaf disease image dataset used by the transfer learning projects |
 | `chapter_8_running_codes.ipynb` | Jupyter notebook to run all three scripts in the recommended order with environment verification |
-**Generated Outputs:**
-| Script | Output Directory | Key Files |
-|--------|-----------------|-----------|
-| `ch8_project_1_energy_technology_trend_forecasting.py` | `outputs_ch8_project_1/` | `rolling_origin_metrics.csv`, `average_metrics.csv`, `improvement_rates.csv`, `rmse_over_time.png`, `mae_over_time.png` |
-| `ch8_projects_2_3_4_NLP.py` | `outputs_ch8_project_2/` | `cluster_trends.png` |
-| | `outputs_ch8_project_3/` | `lstm_loss.png` |
-| | `outputs_ch8_project_4/` | `entity_network.csv` |
-| | `outputs_ch8_case_study/` | `sentiment_by_year.csv` |
-| `ch8_project_5_6_transfer_learning_projects.py` | `outputs_beans_transfer_learning/run_metadata.json` | Experiment configuration and library versions |
-| | `outputs_beans_transfer_learning/outputs_ch8_project_5/feature_extraction/` | `best.keras`, `metrics.json`, `classification_report_project_5.txt`, `classification_report_project_5.csv`, `confusion_matrix_project_5.npy`, `confusion_matrix_project_5.png` |
-| | `outputs_beans_transfer_learning/outputs_ch8_project_6/fine_tuning/` | `best.keras`, `metrics.json`, `classification_report_project_6.txt`, `classification_report_project_6.csv`, `confusion_matrix_project_6.npy`, `confusion_matrix_project_6.png` |
+
+## Generated Outputs
+
+Each script automatically saves all outputs to dedicated folders. No manual path configuration is required.
+
+| Output Directory | File | Description |
+|-----------------|------|-------------|
+| `outputs_ch8_project_1/` | `rolling_origin_metrics.csv` | Fold-level MAE and RMSE for baseline and Panel GRU across all rolling-origin test years |
+| | `average_metrics.csv` | Average MAE and RMSE across all folds for both models |
+| | `improvement_rates.csv` | Share of folds where the Panel GRU outperforms the persistence baseline |
+| | `rmse_over_time.png` | Line plot of RMSE trends over rolling-origin test years |
+| | `mae_over_time.png` | Line plot of MAE trends over rolling-origin test years |
+| `outputs_ch8_project_2/` | `cluster_trends.png` | Topic cluster frequency by year visualizing emerging research themes |
+| `outputs_ch8_project_3/` | `lstm_loss.png` | LSTM training and validation loss curve over epochs |
+| `outputs_ch8_project_4/` | `entity_network.csv` | Entity co-occurrence network with source, target, and edge weight columns |
+| `outputs_ch8_case_study/` | `sentiment_by_year.csv` | Yearly sentiment distribution of policy-related scientific abstracts |
+| `outputs_beans_transfer_learning/` | `run_metadata.json` | Experiment configuration, library versions, and determinism environment variables |
+| `outputs_ch8_project_5/feature_extraction/` | `best.keras` | Best model checkpoint saved during Project 5 feature extraction training |
+| | `metrics.json` | Training history, test accuracy, and artifact paths for Project 5 |
+| | `classification_report_project_5.txt` | Text classification report with precision, recall, F1-score, and support per class |
+| | `classification_report_project_5.csv` | CSV version of the Project 5 classification report for table use |
+| | `confusion_matrix_project_5.npy` | Raw confusion matrix values stored as a NumPy array |
+| | `confusion_matrix_project_5.png` | Confusion matrix visualization for Project 5 test set evaluation |
+| `outputs_ch8_project_6/fine_tuning/` | `best.keras` | Best model checkpoint saved during Project 6 fine-tuning |
+| | `metrics.json` | Training history, test accuracy, and artifact paths for Project 6 |
+| | `classification_report_project_6.txt` | Text classification report with precision, recall, F1-score, and support per class |
+| | `classification_report_project_6.csv` | CSV version of the Project 6 classification report for table use |
+| | `confusion_matrix_project_6.npy` | Raw confusion matrix values stored as a NumPy array |
+| | `confusion_matrix_project_6.png` | Confusion matrix visualization for Project 6 test set evaluation |
 
 ---
 
@@ -232,8 +235,6 @@ Two datasets are distributed as local ZIP files and must be placed in the same f
 
 > **Reproducibility note:** URL-based data may change over time. For archival reproducibility, download the CSV once and set the `URL` variable in the script to the local file path.
 ---
-
-## Notes
 
 ## Notes
 

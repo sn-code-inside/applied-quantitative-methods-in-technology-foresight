@@ -29,19 +29,19 @@ The repository is intended both for instructional use and for reproducible compu
 
 | File / Folder | Description |
 |------|-------------|
-| `EX3_1_descriptives.py` | Descriptive statistical analysis of patent indicators including normalization, outlier detection, skewness, kurtosis, and visualization |
-| `EX3_2_simulation.py` | Monte Carlo simulation of technology adoption using a Bass-type diffusion model with uncertainty bands |
-| `EX3_3_hypothesis.py` | Hypothesis testing and effect-size analysis comparing annual patent growth rates across technology domains |
-| `EX3_4_timeseries.py` | Time-series decomposition and forecasting of publication counts using ARIMA and ETS models |
-| `CRISPR.py` | Integrated retrospective technology foresight case study on CRISPR gene-editing technology |
+| `ch3_example_1_descriptives.py` | Descriptive statistical analysis of patent indicators including normalization, outlier detection, skewness, kurtosis, and visualization |
+| `ch3_example_2_simulation.py` | Monte Carlo simulation of technology adoption using a Bass-type diffusion model with uncertainty bands |
+| `ch3_example_3_hypothesis_testing.py` | Hypothesis testing and effect-size analysis comparing annual patent growth rates across technology domains |
+| `ch3_example_4_time_series.py` | Time-series decomposition and forecasting of publication counts using ARIMA and ETS models |
+| `ch3_CRISPR_case_study.py` | Integrated retrospective technology foresight case study on CRISPR gene-editing technology |
 | `patent_trends.csv` | Synthetic patent-count dataset used in Examples 3.1 and 3.3 |
 | `innovation_adoption_sim.csv` | Synthetic technology-adoption dataset used in Example 3.2 |
 | `pub_trends.csv` | Synthetic publication-count dataset used in Example 3.4 |
-| `outputs_ex3_1/` | Automatically generated outputs for Example 3.1 |
-| `outputs_ex3_2/` | Automatically generated outputs for Example 3.2 |
-| `outputs_ex3_3/` | Automatically generated outputs for Example 3.3 |
-| `outputs_ex3_4/` | Automatically generated outputs for Example 3.4 |
-| `outputs_crispr_case_study/` | Automatically generated outputs for the CRISPR case study |
+| `outputs_ch3_example_1/` | Automatically generated outputs for Example 3.1 |
+| `outputs_ch3_example_2/` | Automatically generated outputs for Example 3.2 |
+| `outputs_ch3_example_3/` | Automatically generated outputs for Example 3.3 |
+| `outputs_ch3_example_4/` | Automatically generated outputs for Example 3.4 |
+| `outputs_ch3_CRISPR_case_study/` | Automatically generated outputs for the CRISPR case study |
 
 ---
 
@@ -90,16 +90,16 @@ pip install statsmodels
 
 The scripts are designed to run independently. Recommended execution order:
 
-1. `EX3_1_descriptives.py`
-2. `EX3_2_simulation.py`
-3. `EX3_3_hypothesis.py`
-4. `EX3_4_timeseries.py`
-5. `CRISPR.py`
+1. `ch3_example_1_descriptives.py`
+2. `ch3_example_2_simulation.py`
+3. `ch3_example_3_hypothesis_testing.py`
+4. `ch3_example_4_time_series.py`
+5. `ch3_CRISPR_case_study.py`
 
 Example execution:
 
 ```bash
-python EX3_1_descriptives.py
+python ch3_example_1_descriptives.py
 ```
 
 Each script automatically generates:

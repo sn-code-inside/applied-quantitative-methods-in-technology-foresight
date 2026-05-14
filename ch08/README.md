@@ -237,6 +237,16 @@ The two ZIP-based datasets exceed GitHub's file size limit and are hosted extern
 
 The scripts emphasize pedagogical clarity and reproducibility over computational optimization.
 
+-Emerging technology detection
+-Trend forecasting with deep learning
+-Transformer-based text analytics
+-Transfer learning applications
+-Sentiment-driven foresight analytics
+-Named Entity Recognition (NER)
+-Strategic mapping using network analysis
+-Representation learning with Sentence-BERT
+-Time-series forecasting with LSTM and GRU architectures
+
 - The examples are intentionally simplified to support instructional use and self-study in deep learning applications for technology foresight.
 - Transformer-based pipelines (NER, sentiment analysis, Sentence-BERT) may require significant memory and processing time on CPU-only machines. This is expected behavior and does not indicate an error.
 - If `sentence-transformers` is unavailable or fails to load, `ch8_projects_2_3_4_NLP.py` automatically falls back to TF-IDF vectorization. Results may differ slightly from the Sentence-BERT baseline but remain analytically valid.

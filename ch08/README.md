@@ -15,13 +15,6 @@ This folder contains the Python scripts, synthetic datasets, and reproducible an
 
 The materials in this chapter demonstrate how deep learning and modern artificial intelligence methods can be applied to technology foresight, strategic intelligence, and emerging technology analysis. The repository includes practical examples covering:
 
-- descriptive statistical analysis,
-- uncertainty modeling and Monte Carlo simulation,
-- hypothesis testing across technology domains,
-- time-series forecasting and trend decomposition,
-- lifecycle (S-curve) modeling,
-- and retrospective technology assessment.
-
 - Emerging technology detection
 - Trend forecasting with deep learning
 - Transformer-based text analytics

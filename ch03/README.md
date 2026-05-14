@@ -3,8 +3,13 @@
 ## Overview
 
 > **Authors:**
-> Prof. Dr. Femin Yalcin,
-> Assoc. Prof. Dr. Sila Ovgu Korkut 
+> Prof. Dr. Femin Yalcin and Assoc. Prof. Dr. Sila Ovgu Korkut
+>
+> **Affiliations:** Izmir Katip Celebi University, Faculty of Engineering and Architecture, Department of Engineering Sciences
+> 
+> **Email addresses:** femin.yalcin@ikcu.edu.tr and silaovgu.korkut@ikcu.edu.tr
+>
+> **ORCIDs:** https://orcid.org/0000-0003-0602-9392 and https://orcid.org/0000-0003-4784-2013
 
 This folder contains the Python scripts, synthetic datasets, and reproducible analytical workflows developed for **Chapter 3: Statistical Foundations for Technology Analysis** in the book *Applied Quantitative Methods in Technology Foresight: AI-Enhanced Approaches* (Springer).
 

@@ -251,13 +251,13 @@ The scripts emphasize pedagogical clarity and reproducibility over computational
 
 The implementations emphasize reproducibility through:
 
--Fixed random seeds across Python, NumPy, PyTorch, and TensorFlow (seed=42)
--Deterministic environment flags set before runtime: TF_DETERMINISTIC_OPS, TF_CUDNN_DETERMINISTIC, PYTHONHASHSEED
--Stable sorting before sequence construction
--Time-based validation splits with no random data leakage
--Rolling-origin backtesting for temporal evaluation
--Local dataset loading as a reproducible alternative to URL-based loading
--Saved model checkpoints, evaluation metrics, training histories, and configuration files
+- Fixed random seeds across Python, NumPy, PyTorch, and TensorFlow (seed=42)
+- Deterministic environment flags set before runtime: TF_DETERMINISTIC_OPS, TF_CUDNN_DETERMINISTIC, PYTHONHASHSEED
+- Stable sorting before sequence construction
+- Time-based validation splits with no random data leakage
+- Rolling-origin backtesting for temporal evaluation
+- Local dataset loading as a reproducible alternative to URL-based loading
+- Saved model checkpoints, evaluation metrics, training histories, and configuration files
 
 Minor numerical differences may occur across different operating systems, hardware configurations, and package versions. Some GPU operations may remain nondeterministic depending on CUDA and cuDNN versions. For strict reproducibility, CPU execution is recommended.
 

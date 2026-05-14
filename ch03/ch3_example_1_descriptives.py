@@ -1,4 +1,4 @@
-# EX3_1_descriptives.py
+# ch3_example_1_descriptives.py
 # ============================================================
 # Example 3.1
 # Descriptive Statistics of Technology Indicators
@@ -35,7 +35,7 @@ from scipy.stats import skew, kurtosis
 
 DATA = "patent_trends.csv"
 
-OUT_DIR = Path("outputs_ex3_1")
+OUT_DIR = Path("outputs_ch3_example_1")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 

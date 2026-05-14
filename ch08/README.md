@@ -216,7 +216,7 @@ The datasets used in this chapter are openly licensed and loaded either automati
 |---------|--------|---------|----------------|
 | CORD-19 Scientific Literature | [Semantic Scholar / Allen Institute for AI](https://allenai.org/data/cord-19) | CC BY 4.0 | Local ZIP (`cord_19_dataset.zip`) |
 | Per-Capita Energy Use | [Our World in Data](https://ourworldindata.org/grapher/per-capita-energy-use) | CC BY 4.0 | Downloaded automatically at runtime |
-| Bean Leaf Disease (ibean) | Makerere AI Lab | CC BY 4.0 | Local ZIP (`Bean_Dataset.zip`) |
+| Bean Leaf Disease (ibean) | Makerere AI Lab | CC BY 4.0 | Local ZIP (`bean_dataset.zip`) |
 
 ### Local ZIP Files
 
@@ -227,7 +227,7 @@ The two ZIP-based datasets exceed GitHub's file size limit and are hosted extern
 - **`cord_19_dataset.zip`** → contains `cord19_df.csv`
   Used by `ch8_projects_2_3_4_NLP.py` for topic modeling, trend detection, NER, and sentiment analysis.
 
-- **`Bean_Dataset.zip`** → contains `angular_leaf_spot/`, `bean_rust/`, `healthy/`
+- **`bean_dataset.zip`** → contains `angular_leaf_spot/`, `bean_rust/`, `healthy/`
   Used by `ch8_projects_5_6_transfer_learning.py` for transfer learning experiments. The script handles extraction and train/validation/test splitting automatically.
 
 ### Runtime Download

@@ -40,7 +40,7 @@ This repository hosts the source code, datasets, and supplementary materials for
 ├── ch09/   Text Mining and Natural Language Processing
 ├── ch10/   Hybrid Methods and Foresight Frameworks
 ├── ch11/   Visualization and Communication
-├── ch12/   Tools and Software Implementation
+├── ch12/   Data-Led Technology Roadmapping
 ├── ch13/   Emerging Technology Detection
 ├── ch14/   Strategic Technology Planning
 └── ch15/   Future Directions and Evaluation Methods
@@ -83,7 +83,7 @@ To get started with a specific chapter, navigate to its folder and consult the `
 |---------|-------|---------|
 
 | 11 | Visualization and Communication | Mustafa Volkan Güngör · Dilek Özdemir Güngör |
-| 12 | Tools and Software Implementation | Serhat Burmaoglu · Arif Soyler · Esra Dundar Aravacik |
+| 12 | Data-Led Technology Roadmapping | Arif Soyler · Serhat Burmaoglu · Esra Dundar Aravacik |
 
 ### Part V: Applications and Case Studies
 

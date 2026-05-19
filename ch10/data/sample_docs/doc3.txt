@@ -1,0 +1,6 @@
+Title: Example Technology Signal Brief
+Date: 2024-07-02
+Source: Synthetic teaching sample
+License: MIT-compatible educational sample
+
+Emerging traceability platforms combine digital product passports, supplier data, and sustainability reporting. For SMEs, these developments may create both a risk of exclusion from supply chains and an opportunity to coordinate collective responses through shared foresight practices.

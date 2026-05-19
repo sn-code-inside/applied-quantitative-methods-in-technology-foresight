@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Chapter 10 Supplementary Code: AI-Augmented Weak Signal Interpretation for Emerging Technology Foresight"
+type: software
+authors:
+  - family-names: "Panizzon"
+    given-names: "Mateus"
+  - family-names: "Janissek-Muniz"
+    given-names: "Raquel"
+  - family-names: "Brito-Cabrera"
+    given-names: "Carlos J."
+  - family-names: "Marroni Borges"
+    given-names: "Natália"
+year: 2026
+license: MIT
+repository-code: "https://github.com/sn-code-inside/applied-quantitative-methods-in-technology-foresight/tree/main/ch10"
+abstract: >
+  Supplementary educational implementation for Chapter 10, illustrating a simplified
+  three-tower weak-signal intelligence pipeline with traceability and human-in-the-loop
+  sensemaking.

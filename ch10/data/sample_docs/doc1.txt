@@ -1,0 +1,6 @@
+Title: Example Policy Note
+Date: 2024-06-01
+Source: Synthetic teaching sample
+License: MIT-compatible educational sample
+
+A small change in regional procurement rules is increasing demand for traceable, low-carbon suppliers. Several small firms report that they cannot individually monitor regulatory changes, but shared intelligence sessions help them identify early compliance signals.

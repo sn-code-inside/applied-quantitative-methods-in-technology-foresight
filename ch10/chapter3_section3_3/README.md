@@ -1,4 +1,4 @@
-# Chapter 3 — Section 3.3 Code Implementations
+# Chapter 10 — Section 3.3 Code Implementations
 
 This folder contains standalone educational scripts associated with the multi-agent examples discussed in Section 3.3 of Chapter 10.
 

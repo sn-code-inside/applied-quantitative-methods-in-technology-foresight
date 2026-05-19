@@ -1,4 +1,4 @@
-# Chapter 4 — Code and Prompt Implementations
+# Chapter 10 — Code and Prompt Implementations
 
 This folder contains standalone educational scripts associated with the Chapter 4 implementation discussion.
 
